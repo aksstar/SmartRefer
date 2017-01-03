@@ -5,61 +5,33 @@
     density="560dpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="358478833631075"
+    timestamp="453122912050309"
     token="-8686944785549654338"
-    verifier="COMPATIBLE" >
+    verifier="MANIFEST_FILE_CHANGE" >
 
     <task
         name="javac"
-        duration="267" />
+        duration="0" />
     <task
         name="instant-run-dex"
-        duration="365" />
+        duration="0" />
     <task
         name="instant-run-transform"
-        duration="30" />
+        duration="0" />
     <task
         name="verifier"
-        duration="16" />
+        duration="0" />
 
     <artifact
-        location="G:\SmartRefrigerator1\app\build\intermediates\reload-dex\debug\classes.dex"
-        type="RELOAD_DEX" />
+        location="G:\SmartRefrigerator1\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
 
     <build
-        timestamp="354363412386309"
+        timestamp="453122912050309"
         verifier="MANIFEST_FILE_CHANGE" >
         <artifact
             location="G:\SmartRefrigerator1\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
-    </build>
-    <build
-        timestamp="358293580346274"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="G:\SmartRefrigerator1\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
-            type="DEX" />
-    </build>
-    <build
-        timestamp="358362372660212"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="G:\SmartRefrigerator1\app\build\intermediates\builds\debug\358362372660212\classes.dex"
-            type="RELOAD_DEX" />
-    </build>
-    <build
-        timestamp="358391389300219"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="G:\SmartRefrigerator1\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-            type="RESOURCES" />
-    </build>
-    <build
-        timestamp="358478833631075"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="G:\SmartRefrigerator1\app\build\intermediates\reload-dex\debug\classes.dex"
-            type="RELOAD_DEX" />
     </build>
 
 </instant-run>

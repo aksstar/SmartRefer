@@ -7,8 +7,13 @@ import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ListView;
+import android.widget.Toast;
+
 import java.util.ArrayList;
 import java.util.Arrays;
+
+import static android.text.TextUtils.isEmpty;
+
 public class Dashboard extends AppCompatActivity {
 
     ArrayAdapter<String> adapter;
@@ -38,7 +43,15 @@ public class Dashboard extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 int newItem=Integer.parseInt(editText.getText().toString());
-                itemList.remove(newItem);
+               // String inttem = newItem.toString();
+                if(isEmpty(editText.getText().toString()))
+                {
+                    Toast.makeText(Dashboard.this, "Please enter row no. eg:1,2,3",
+                            Toast.LENGTH_LONG).show ();
+                }
+                else {
+                    itemList.remove(newItem);
+                }
                 adapter.notifyDataSetChanged();
             }
 

@@ -30,8 +30,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.example.aakash.smartrefer.MainActivity" />
+        <!-- <activity android:name=".MainActivity" /> -->
         <activity android:name="com.example.aakash.smartrefer.DoThings" />
+        <activity android:name="com.example.aakash.smartrefer.LoginActivity" />
+        <activity android:name="com.example.aakash.smartrefer.RegisterActivity" />
         <activity android:name="com.example.aakash.smartrefer.Scanactivty" />
         <activity
             android:name="com.example.aakash.smartrefer.Dashboard"

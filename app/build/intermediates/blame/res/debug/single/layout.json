@@ -48,6 +48,10 @@
         "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\layout\\content_board1.xml"
     },
     {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register.xml",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\layout\\register.xml"
+    },
+    {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\singlerow.xml",
         "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\layout\\singlerow.xml"
     },

@@ -1,3 +1,4 @@
+/*
 package com.example.aakash.smartrefer;
 
 import android.content.Intent;
@@ -21,4 +22,5 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
-}
+}*/
+
