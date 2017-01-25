@@ -29,10 +29,10 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
         login1.setOnClickListener(this);
         register1.setOnClickListener(this);
 
-        if(session.loggedin()){
+       /* if(session.loggedin()){
             startActivity(new Intent(LoginActivity.this,CardDemoActivity.class));
             finish();
-        }
+        }*/
     }
 
     @Override

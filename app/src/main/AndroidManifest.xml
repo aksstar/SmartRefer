@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.aakash.smartrefer">
-
-    <uses-permission android:name="ANDROID.PERMISSION.INTERNET" />
+    <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="ANDROID.PERMISSION.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.CAMERA" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
@@ -30,7 +29,7 @@
         <activity android:name=".RegisterActivity" />
         <activity android:name=".Scanactivty" />
         <activity
-            android:name=".Dashboard"
+            android:name=".dashboardaddd"
             android:label="@string/title_activity_dashboard" />
         <activity
             android:name=".board1"

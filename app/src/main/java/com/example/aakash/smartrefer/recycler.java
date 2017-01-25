@@ -68,7 +68,7 @@ public class recycler extends RecyclerView.Adapter<recycler.ViewHolder> {
                             intent = new Intent(v.getContext(), Scanactivty.class);
                             break;
                         case 4:
-                            intent = new Intent(v.getContext(), Dashboard.class);
+                            intent = new Intent(v.getContext(), dashboardaddd.class);
                             break;
                         case 5:
                             url = "http://www.karmayog.org/nonprofits/npogriddisplay.asp?r=476";

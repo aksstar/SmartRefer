@@ -23,7 +23,7 @@ public class DoThings extends AppCompatActivity {
         Button y = (Button) findViewById(R.id.button6);
         y.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                Intent intent = new Intent(getApplicationContext(), Dashboard.class);
+                Intent intent = new Intent(getApplicationContext(), dashboardaddd.class);
                 startActivity(intent);
             }
         });

@@ -129,6 +129,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="G:\SmartRefrigerator1\app\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="G:\SmartRefrigerator1\app\build\intermediates\pre-dexed\debug\volley_9febf321864ae78162f5cc7bce2e81d2678d6ac6.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="G:\SmartRefrigerator1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -162,6 +171,15 @@
         revision="24.0.2"
         sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
         <dex dex="G:\SmartRefrigerator1\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_a0f2a1802011b96fb684f7d4b0e8cbc0dd9b6c94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\SmartRefrigerator1\app\libs\GenAsync.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6a58a869c275f3424cffb0c266d1d1c1518e38e7">
+        <dex dex="G:\SmartRefrigerator1\app\build\intermediates\pre-dexed\debug\GenAsync_7b857342bd7feaf2753f33f963beb7d3d1f1d5fe.jar" />
     </item>
 
 </items>

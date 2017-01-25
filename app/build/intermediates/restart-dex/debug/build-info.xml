@@ -5,30 +5,30 @@
     density="560dpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="453122912050309"
-    token="-8686944785549654338"
-    verifier="MANIFEST_FILE_CHANGE" >
+    timestamp="138022099814612"
+    token="-8267612936424353302"
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="3040" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="116" />
     <task
         name="verifier"
-        duration="0" />
+        duration="3" />
 
     <artifact
         location="G:\SmartRefrigerator1\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="453122912050309"
-        verifier="MANIFEST_FILE_CHANGE" >
+        timestamp="138022099814612"
+        verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="G:\SmartRefrigerator1\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />

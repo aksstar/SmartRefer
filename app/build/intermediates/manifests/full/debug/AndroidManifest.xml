@@ -8,7 +8,7 @@
         android:minSdkVersion="15"
         android:targetSdkVersion="24" />
 
-    <uses-permission android:name="ANDROID.PERMISSION.INTERNET" />
+    <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="ANDROID.PERMISSION.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.CAMERA" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
@@ -36,7 +36,7 @@
         <activity android:name="com.example.aakash.smartrefer.RegisterActivity" />
         <activity android:name="com.example.aakash.smartrefer.Scanactivty" />
         <activity
-            android:name="com.example.aakash.smartrefer.Dashboard"
+            android:name="com.example.aakash.smartrefer.dashboardaddd"
             android:label="@string/title_activity_dashboard" />
         <activity
             android:name="com.example.aakash.smartrefer.board1"

@@ -1,3 +1,4 @@
+/*
 package com.example.aakash.smartrefer;
 
 import android.os.Bundle;
@@ -13,16 +14,19 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 import static android.text.TextUtils.isEmpty;
-
+*/
+/*
 public class Dashboard extends AppCompatActivity {
 
     ArrayAdapter<String> adapter;
     EditText editText;
     ArrayList<String> itemList;
+    private DbHelper db;
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_dashboard);
         String[] items={};
+        db = new DbHelper(this);
         itemList=new ArrayList<String>(Arrays.asList(items));
         adapter= new ArrayAdapter<String>(this, R.layout.singlerow, R.id.txtview,itemList);
         ListView listV=(ListView)findViewById(R.id.list);
@@ -32,9 +36,15 @@ public class Dashboard extends AppCompatActivity {
         btAdd.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                String newItem=editText.getText().toString();
+               String newItem=editText.getText().toString();
                 itemList.add(newItem);
                 adapter.notifyDataSetChanged();
+              //  db.addmessage(newItem);
+               // if(db.dashemp())
+                {
+                    adapter.notifyDataSetChanged();
+                }
+
             }
 
         });
@@ -60,3 +70,4 @@ public class Dashboard extends AppCompatActivity {
     }
 
 }
+*/
