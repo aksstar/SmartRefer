@@ -2700,10 +2700,18 @@ containing a value of this type.
         public static final int design_ic_visibility=0x7f020052;
         public static final int design_snackbar_background=0x7f020053;
         public static final int fri=0x7f020054;
-        public static final int navigation_empty_icon=0x7f020055;
-        public static final int new1=0x7f020056;
-        public static final int notification_template_icon_bg=0x7f020058;
-        public static final int pp1=0x7f020057;
+        public static final int me=0x7f020055;
+        public static final int navigation_empty_icon=0x7f020056;
+        public static final int new1=0x7f020057;
+        public static final int notification_template_icon_bg=0x7f020060;
+        public static final int pp1=0x7f020058;
+        public static final int pp2=0x7f020059;
+        public static final int pp3=0x7f02005a;
+        public static final int pp4=0x7f02005b;
+        public static final int pp5=0x7f02005c;
+        public static final int pp6=0x7f02005d;
+        public static final int pp7=0x7f02005e;
+        public static final int pp8=0x7f02005f;
     }
     public static final class id {
         public static final int action0=0x7f0c00a3;
