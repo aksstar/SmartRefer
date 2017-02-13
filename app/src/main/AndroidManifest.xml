@@ -38,6 +38,7 @@
         <activity android:name=".addthings" />
         <activity android:name=".shoppinglist" />
         <activity android:name=".CardDemoActivity"></activity>
+        <activity android:name=".nutrients"></activity>
     </application>
 
 </manifest>

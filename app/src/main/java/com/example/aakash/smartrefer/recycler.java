@@ -24,13 +24,15 @@ public class recycler extends RecyclerView.Adapter<recycler.ViewHolder> {
             "Joy of Giving",
             "Kids Section",
             "Waste Management",
+            "Nutrition Chart"
             };
 
     private String[] details = {"Item one details",
             "Item two details", "Item three details",
             "Item four details", "Item file details",
             "Item six details", "Item seven details",
-            "Item eight details","Item eight details"};
+            "Item eight details","Item eight details",
+            "Item nine details"};
 
     private int[] images = { R.drawable.pp5,
             R.drawable.pp2,
@@ -39,7 +41,8 @@ public class recycler extends RecyclerView.Adapter<recycler.ViewHolder> {
             R.drawable.pp6,
             R.drawable.pp1,
             R.drawable.pp7,
-            R.drawable.pp8 };
+            R.drawable.pp8,
+            R.drawable.pp8};
 
     class ViewHolder extends RecyclerView.ViewHolder{
 
@@ -81,7 +84,7 @@ public class recycler extends RecyclerView.Adapter<recycler.ViewHolder> {
                              intent = new Intent(v.getContext(), shoppinglist.class);
                             break;
                         case 6:
-                            v.getContext().startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.youtube.com/results?search_query=healthy+recipes+for+kids")));
+                            intent=new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.youtube.com/results?search_query=healthy+recipes+for+kids"));
                             break;
                         case 1:
                             url = "http://myfridgefood.com/";
@@ -95,6 +98,9 @@ public class recycler extends RecyclerView.Adapter<recycler.ViewHolder> {
                             intent.setData(Uri.parse(url));
                             break;
                         case 8:
+                            intent = new Intent(v.getContext(), nutrients.class);
+                            break;
+                        case 9:
                             intent = new Intent(v.getContext(), nutrients.class);
                             break;
                     }

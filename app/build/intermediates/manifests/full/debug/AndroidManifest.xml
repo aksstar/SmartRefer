@@ -45,6 +45,7 @@
         <activity android:name="com.example.aakash.smartrefer.addthings" />
         <activity android:name="com.example.aakash.smartrefer.shoppinglist" />
         <activity android:name="com.example.aakash.smartrefer.CardDemoActivity" />
+        <activity android:name="com.example.aakash.smartrefer.nutrients" />
     </application>
 
 </manifest>

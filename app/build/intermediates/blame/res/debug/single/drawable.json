@@ -4,20 +4,28 @@
         "source": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a1.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a1.jpg"
+    },
+    {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
         "source": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a7.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a7.jpg"
     },
     {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pp7.gif",
         "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\pp7.gif"
     },
     {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pp1.jpg",
-        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\pp1.jpg"
-    },
-    {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fri.jpg",
         "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\fri.jpg"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a15.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a15.jpg"
     },
     {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
@@ -36,12 +44,20 @@
         "source": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a8.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a8.jpg"
+    },
+    {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
         "source": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pp4.png",
         "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\pp4.png"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a2.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a2.jpg"
     },
     {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
@@ -54,6 +70,10 @@
     {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
         "source": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a19.gif",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a19.gif"
     },
     {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
@@ -88,6 +108,14 @@
         "source": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.0\\res\\drawable\\design_fab_background.xml"
     },
     {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a14.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a14.jpg"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a11.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a11.jpg"
+    },
+    {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
         "source": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_switch_thumb_material.xml"
     },
@@ -98,6 +126,10 @@
     {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
         "source": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a4.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a4.jpg"
     },
     {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
@@ -124,6 +156,22 @@
         "source": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a17.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a17.jpg"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a12.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a12.jpg"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a20.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a20.jpg"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a9.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a9.jpg"
+    },
+    {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\me.jpg",
         "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\me.jpg"
     },
@@ -136,12 +184,28 @@
         "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\pp1.png"
     },
     {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a5.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a5.jpg"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a21.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a21.jpg"
+    },
+    {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
         "source": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a16.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a16.jpg"
+    },
+    {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
         "source": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a13.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a13.jpg"
     },
     {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
@@ -150,6 +214,10 @@
     {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\new1.jpg",
         "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\new1.jpg"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a10.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a10.jpg"
     },
     {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
@@ -162,6 +230,10 @@
     {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pp8.jpg",
         "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\pp8.jpg"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a6.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a6.jpg"
     },
     {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
@@ -186,6 +258,14 @@
     {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pp3.png",
         "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\pp3.png"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a18.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a18.jpg"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a3.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a3.jpg"
     },
     {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
