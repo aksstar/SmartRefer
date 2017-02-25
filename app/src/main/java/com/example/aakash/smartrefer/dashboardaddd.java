@@ -70,7 +70,8 @@ public class dashboardaddd extends AppCompatActivity implements AsyncResponse {
                 postData.put("msg", editText.getText().toString() );
 
                 PostResponseAsyncTask loginTask = new PostResponseAsyncTask(dashboardaddd.this, postData);
-                loginTask.execute("http://aksstar.16mb.com/dashboard.php");
+                loginTask.execute("http://projectrefrigerator.pe.hu/dashboard.php");
+                getData();
             }
 
         });
@@ -89,7 +90,7 @@ public class dashboardaddd extends AppCompatActivity implements AsyncResponse {
             @Override
             protected String doInBackground(String... params) {
                 DefaultHttpClient httpclient = new DefaultHttpClient(new BasicHttpParams());
-                HttpPost httppost = new HttpPost("http://aksstar.16mb.com/listview.php");
+                HttpPost httppost = new HttpPost("http://projectrefrigerator.pe.hu/listview.php");
 
                 // Depends on your web service
                 httppost.setHeader("Content-type", "application/json");

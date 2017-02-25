@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="armeabi-v7a,armeabi"
-    api-level="24"
-    density="560dpi"
+    abi="x86"
+    api-level="25"
+    density="420dpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="25621988055883"
+    timestamp="9600725005887"
     token="-8267612936424353302"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="324" />
+        duration="729" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="43" />
+        duration="22" />
     <task
         name="verifier"
-        duration="3" />
+        duration="2" />
 
     <artifact
         location="G:\SmartRefrigerator1\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
         type="DEX" />
 
     <build
-        timestamp="24671847459283"
+        timestamp="7511695443459"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="G:\SmartRefrigerator1\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="25621988055883"
+        timestamp="9600725005887"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="G:\SmartRefrigerator1\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"

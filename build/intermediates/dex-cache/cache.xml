@@ -12,6 +12,78 @@
     </item>
     <item
         is-multidex="true"
+        jar="G:\SmartRefrigerator1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="G:\SmartRefrigerator1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_663a78d5a5fe5ea0969f889683fe0550fd3d3464\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\SmartRefrigerator1\app\libs\volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="G:\SmartRefrigerator1\app\build\intermediates\transforms\dex\debug\folders\1000\2\volley_9febf321864ae78162f5cc7bce2e81d2678d6ac6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\SmartRefrigerator1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4d3ee7503f4f776145e7e64e40d3493d038da397">
+        <dex dex="G:\SmartRefrigerator1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_953ae441215ad6db3de1ca3d9872afa0cf0c5e0c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\SmartRefrigerator1\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="G:\SmartRefrigerator1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_5957b664aa223ad585c0b8382d40d7e3c7c4c93f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\SmartRefrigerator1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="G:\SmartRefrigerator1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_2b7ba2a3c690ba43e072d601a54858d54e9e4946\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\SmartRefrigerator1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="G:\SmartRefrigerator1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_0c5fbed1eeae085cafaa506d7998cb378b0ed8c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\SmartRefrigerator1\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="G:\SmartRefrigerator1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.0_fc6be3363124b3ed785762c19c3322440a0b1669\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\SmartRefrigerator1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="G:\SmartRefrigerator1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_1078a12b7890fc27b3c020cfd2c554edae026986\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="G:\SmartRefrigerator1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
         jumboMode="true"
         optimize="true"
@@ -25,7 +97,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="3cb76fc298cc29b4f8b6ae8e019b6266716b00ec">
+        sha1="8ff2657ccb359847c86c172a9663e459abdcbb8e">
         <dex dex="G:\SmartRefrigerator1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_56be07e78ec44d3dd6e012ec846f90e9df470dda\classes.dex" />
     </item>
     <item
@@ -57,24 +129,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="G:\SmartRefrigerator1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
-        <dex dex="G:\SmartRefrigerator1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_663a78d5a5fe5ea0969f889683fe0550fd3d3464\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="G:\SmartRefrigerator1\app\libs\volley.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
-        <dex dex="G:\SmartRefrigerator1\app\build\intermediates\transforms\dex\debug\folders\1000\2\volley_9febf321864ae78162f5cc7bce2e81d2678d6ac6\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="G:\SmartRefrigerator1\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -93,48 +147,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="G:\SmartRefrigerator1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="be820d0085f92074269b73ea94c2f3493c21c03e">
-        <dex dex="G:\SmartRefrigerator1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_953ae441215ad6db3de1ca3d9872afa0cf0c5e0c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="G:\SmartRefrigerator1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
         <dex dex="G:\SmartRefrigerator1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_d357a560618902ca2289ee153d7af43458ec0d8f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="G:\SmartRefrigerator1\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
-        <dex dex="G:\SmartRefrigerator1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_5957b664aa223ad585c0b8382d40d7e3c7c4c93f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="G:\SmartRefrigerator1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
-        <dex dex="G:\SmartRefrigerator1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_2b7ba2a3c690ba43e072d601a54858d54e9e4946\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="G:\SmartRefrigerator1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
-        <dex dex="G:\SmartRefrigerator1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_0c5fbed1eeae085cafaa506d7998cb378b0ed8c6\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -162,24 +180,6 @@
         revision="24.0.2"
         sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
         <dex dex="G:\SmartRefrigerator1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_88bc81770280e46df6b9b0bf29c23cfe8860a3f7\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="G:\SmartRefrigerator1\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
-        <dex dex="G:\SmartRefrigerator1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.0_fc6be3363124b3ed785762c19c3322440a0b1669\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="G:\SmartRefrigerator1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
-        <dex dex="G:\SmartRefrigerator1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_1078a12b7890fc27b3c020cfd2c554edae026986\classes.dex" />
     </item>
     <item
         is-multidex="true"

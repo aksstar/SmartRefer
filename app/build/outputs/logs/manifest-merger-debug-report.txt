@@ -76,10 +76,10 @@ activity#com.example.aakash.smartrefer.DoThings
 ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:27:9-46
 	android:name
 		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:27:19-43
-activity#com.example.aakash.smartrefer.LoginActivity
-ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:28:9-51
+activity#com.example.aakash.smartrefer.LoginGlobal
+ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:28:9-49
 	android:name
-		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:28:19-48
+		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:28:19-46
 activity#com.example.aakash.smartrefer.RegisterActivity
 ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:29:9-54
 	android:name

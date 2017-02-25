@@ -59,7 +59,7 @@ public class DoThings extends AppCompatActivity {
         Button zxxxx = (Button) findViewById(R.id.button2);
         zxxxx.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                String url = "http://myfridgefood.com/";
+                String url = "http://projectrefrigerator.pe.hu/rindex.php";
                 Intent i = new Intent(Intent.ACTION_VIEW);
                 i.setData(Uri.parse(url));
                 startActivity(i);

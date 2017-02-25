@@ -87,7 +87,7 @@ public class recycler extends RecyclerView.Adapter<recycler.ViewHolder> {
                             intent=new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.youtube.com/results?search_query=healthy+recipes+for+kids"));
                             break;
                         case 1:
-                            url = "http://myfridgefood.com/";
+                            url = "http://projectrefrigerator.pe.hu/rindex.php";
                             intent = new Intent(Intent.ACTION_VIEW);
                             intent.setData(Uri.parse(url));
                             //startActivity(i);
