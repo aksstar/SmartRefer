@@ -34,11 +34,11 @@ import java.util.ArrayList;
 import java.util.List;
 
 
-public class LoginGlobal extends AppCompatActivity {
+public class RegisterGlobal extends AppCompatActivity {
 
     private EditText editTextUserName;
     private EditText editTextPassword;
-    private Button registerbut;
+
     public static final String USER_NAME = "USERNAME";
 
     String username;
@@ -47,21 +47,13 @@ public class LoginGlobal extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
-      //  login1 = (Button)findViewById(R.id.btnLogin);
+        setContentView(R.layout.register);
+        //  login1 = (Button)findViewById(R.id.btnLogin);
         editTextUserName = (EditText) findViewById(R.id.etEmail);
         editTextPassword = (EditText) findViewById(R.id.etPass);
-        registerbut = (Button) findViewById(R.id.btnReg);
-        registerbut.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                startActivity(new Intent(LoginGlobal.this,RegisterGlobal.class));
-            }
-        });
-
     }
 
-    public void invokeLogin(View view){
+    public void invokeRegister(View view){
         username = editTextUserName.getText().toString();
         password = editTextPassword.getText().toString();
 
@@ -78,7 +70,7 @@ public class LoginGlobal extends AppCompatActivity {
             @Override
             protected void onPreExecute() {
                 super.onPreExecute();
-                loadingDialog = ProgressDialog.show(LoginGlobal.this, "Please wait", "Loading...");
+                loadingDialog = ProgressDialog.show(RegisterGlobal.this, "Please wait", "Loading...");
             }
 
             @Override
@@ -95,7 +87,7 @@ public class LoginGlobal extends AppCompatActivity {
                 try{
                     HttpClient httpClient = new DefaultHttpClient();
                     HttpPost httpPost = new HttpPost(
-                            "http://aksstar.16mb.com/login.php");
+                            "http://aksstar.16mb.com/register.php");
                     httpPost.setEntity(new UrlEncodedFormEntity(nameValuePairs));
 
                     HttpResponse response = httpClient.execute(httpPost);
@@ -132,8 +124,10 @@ public class LoginGlobal extends AppCompatActivity {
                 else {
                     String s = result.trim();
                     loadingDialog.dismiss();
+                    Log.i("notimp",s);
                     if (s.equalsIgnoreCase("success")) {
-                        Intent intent = new Intent(LoginGlobal.this, CardDemoActivity.class);
+                        Intent intent = new Intent(RegisterGlobal.this, LoginGlobal.class);
+                        Toast.makeText(getApplicationContext(), "Register Successfull", Toast.LENGTH_LONG).show();
                         intent.putExtra(USER_NAME, username);
                         finish();
                         startActivity(intent);

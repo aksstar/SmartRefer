@@ -252,12 +252,12 @@
         "source": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pp2.jpg",
-        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\pp2.jpg"
-    },
-    {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pp3.png",
         "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\pp3.png"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pp2.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\pp2.jpg"
     },
     {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a18.jpg",
