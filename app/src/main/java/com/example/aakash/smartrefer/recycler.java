@@ -73,7 +73,7 @@ public class recycler extends RecyclerView.Adapter<recycler.ViewHolder> {
                             intent = new Intent(v.getContext(), dashboardaddd.class);
                             break;
                         case 5:
-                            url = "http://www.karmayog.org/nonprofits/npogriddisplay.asp?r=476";
+                            url = "http://projectrefrigerator.pe.hu/nindex.php";
                             intent = new Intent(Intent.ACTION_VIEW);
                             intent.setData(Uri.parse(url));
                             break;
