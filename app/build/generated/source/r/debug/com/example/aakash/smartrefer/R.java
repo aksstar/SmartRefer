@@ -2821,7 +2821,7 @@ containing a value of this type.
         public static final int home=0x7f0c0004;
         public static final int homeAsUp=0x7f0c000f;
         public static final int icon=0x7f0c0045;
-        public static final int id=0x7f0c00b4;
+        public static final int id=0x7f0c00b5;
         public static final int ifRoom=0x7f0c0038;
         public static final int image=0x7f0c0042;
         public static final int imageView=0x7f0c0094;
@@ -2838,7 +2838,7 @@ containing a value of this type.
         public static final int listMode=0x7f0c000b;
         public static final int listView=0x7f0c007f;
         public static final int list_item=0x7f0c0044;
-        public static final int listview=0x7f0c00b5;
+        public static final int listview=0x7f0c00b6;
         public static final int media_actions=0x7f0c00a8;
         public static final int middle=0x7f0c0035;
         public static final int mini=0x7f0c0033;
@@ -2855,7 +2855,7 @@ containing a value of this type.
         public static final int progress_circular=0x7f0c0006;
         public static final int progress_horizontal=0x7f0c0007;
         public static final int radio=0x7f0c0057;
-        public static final int recycler_view=0x7f0c00b2;
+        public static final int recycler_view=0x7f0c00b3;
         public static final int right=0x7f0c0029;
         public static final int scan_button=0x7f0c0079;
         public static final int scan_content=0x7f0c007b;
@@ -2909,12 +2909,13 @@ containing a value of this type.
         public static final int top=0x7f0c002b;
         public static final int topPanel=0x7f0c004a;
         public static final int touch_outside=0x7f0c009b;
-        public static final int tvLogin=0x7f0c00b3;
+        public static final int tvLogin=0x7f0c00b4;
         public static final int txtInput=0x7f0c007c;
         public static final int up=0x7f0c0009;
         public static final int useLogo=0x7f0c0014;
         public static final int view_offset_helper=0x7f0c000a;
         public static final int webView=0x7f0c008d;
+        public static final int webview=0x7f0c00b2;
         public static final int withText=0x7f0c003a;
         public static final int wrap_content=0x7f0c0020;
     }
@@ -2988,14 +2989,15 @@ containing a value of this type.
         public static final int notification_template_media=0x7f040039;
         public static final int notification_template_part_chronometer=0x7f04003a;
         public static final int notification_template_part_time=0x7f04003b;
-        public static final int recycler=0x7f04003c;
-        public static final int register=0x7f04003d;
-        public static final int select_dialog_item_material=0x7f04003e;
-        public static final int select_dialog_multichoice_material=0x7f04003f;
-        public static final int select_dialog_singlechoice_material=0x7f040040;
-        public static final int singlerow=0x7f040041;
-        public static final int singleshoplist=0x7f040042;
-        public static final int support_simple_spinner_dropdown_item=0x7f040043;
+        public static final int recipie=0x7f04003c;
+        public static final int recycler=0x7f04003d;
+        public static final int register=0x7f04003e;
+        public static final int select_dialog_item_material=0x7f04003f;
+        public static final int select_dialog_multichoice_material=0x7f040040;
+        public static final int select_dialog_singlechoice_material=0x7f040041;
+        public static final int singlerow=0x7f040042;
+        public static final int singleshoplist=0x7f040043;
+        public static final int support_simple_spinner_dropdown_item=0x7f040044;
     }
     public static final class mipmap {
         public static final int ic_launcher=0x7f030000;

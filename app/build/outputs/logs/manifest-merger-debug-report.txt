@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:2:1-44:12
+ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:2:1-45:12
 	package
 		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:3:5-44
 		INJECTED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml
@@ -36,7 +36,7 @@ ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:9:5-11:35
 	android:name
 		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:10:9-47
 application
-ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:13:5-42:19
+ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:13:5-43:19
 MERGED from [com.android.support:cardview-v7:24.2.0] C:\Users\User\.android\build-cache\7c55bda890cb45fc6d92da1d519709495a3db88b\output\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:24.2.0] C:\Users\User\.android\build-cache\d97b58f9ea56b18fd9a418810819aff526371fa2\output\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\User\.android\build-cache\996c7385d2c01c479d4a974253834bcfc4941e04\output\AndroidManifest.xml:25:5-20
@@ -88,38 +88,42 @@ activity#com.example.aakash.smartrefer.Scanactivty
 ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:30:9-49
 	android:name
 		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:30:19-46
+activity#com.example.aakash.smartrefer.Recipie
+ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:31:9-45
+	android:name
+		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:31:19-42
 activity#com.example.aakash.smartrefer.dashboardaddd
-ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:31:9-33:64
+ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:32:9-34:64
 	android:label
-		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:33:13-61
+		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:34:13-61
 	android:name
-		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:32:13-42
+		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:33:13-42
 activity#com.example.aakash.smartrefer.board1
-ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:34:9-36:61
+ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:35:9-37:61
 	android:label
-		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:36:13-58
+		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:37:13-58
 	android:name
-		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:35:13-35
+		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:36:13-35
 activity#com.example.aakash.smartrefer.ngo
-ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:37:9-41
+ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:38:9-41
 	android:name
-		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:37:19-38
+		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:38:19-38
 activity#com.example.aakash.smartrefer.addthings
-ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:38:9-47
+ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:39:9-47
 	android:name
-		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:38:19-44
+		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:39:19-44
 activity#com.example.aakash.smartrefer.shoppinglist
-ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:39:9-50
+ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:40:9-50
 	android:name
-		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:39:19-47
+		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:40:19-47
 activity#com.example.aakash.smartrefer.CardDemoActivity
-ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:40:9-63
+ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:41:9-63
 	android:name
-		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:40:19-51
+		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:41:19-51
 activity#com.example.aakash.smartrefer.nutrients
-ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:41:9-56
+ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:42:9-56
 	android:name
-		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:41:19-44
+		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:42:19-44
 uses-sdk
 INJECTED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:cardview-v7:24.2.0] C:\Users\User\.android\build-cache\7c55bda890cb45fc6d92da1d519709495a3db88b\output\AndroidManifest.xml:20:5-43

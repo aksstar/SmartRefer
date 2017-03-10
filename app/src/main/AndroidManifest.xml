@@ -28,6 +28,7 @@
         <activity android:name=".LoginGlobal" />
         <activity android:name=".RegisterGlobal" />
         <activity android:name=".Scanactivty" />
+        <activity android:name=".Recipie" />
         <activity
             android:name=".dashboardaddd"
             android:label="@string/title_activity_dashboard" />

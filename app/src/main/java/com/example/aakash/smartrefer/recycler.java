@@ -73,9 +73,8 @@ public class recycler extends RecyclerView.Adapter<recycler.ViewHolder> {
                             intent = new Intent(v.getContext(), dashboardaddd.class);
                             break;
                         case 5:
-                            url = "http://projectrefrigerator.pe.hu/nindex.php";
-                            intent = new Intent(Intent.ACTION_VIEW);
-                            intent.setData(Uri.parse(url));
+                            intent = new Intent(v.getContext(), Recipie.class);
+                            intent.putExtra("url","http://projectrefrigerator.pe.hu/nindex.php");
                             break;
                         case 3:
                             intent = new Intent(v.getContext(), addthings.class);
@@ -87,10 +86,8 @@ public class recycler extends RecyclerView.Adapter<recycler.ViewHolder> {
                             intent=new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.youtube.com/results?search_query=healthy+recipes+for+kids"));
                             break;
                         case 1:
-                            url = "http://projectrefrigerator.pe.hu/rindex.php";
-                            intent = new Intent(Intent.ACTION_VIEW);
-                            intent.setData(Uri.parse(url));
-                            //startActivity(i);
+                            intent = new Intent(v.getContext(), Recipie.class);
+                            intent.putExtra("url","http://projectrefrigerator.pe.hu/rindex.php");
                             break;
                         case 7:
                             url = "http://www.biogas-india.com/contact.php";

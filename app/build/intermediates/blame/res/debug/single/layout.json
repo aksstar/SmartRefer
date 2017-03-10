@@ -136,6 +136,10 @@
         "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recipie.xml",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\layout\\recipie.xml"
+    },
+    {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
         "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\layout\\notification_template_lines.xml"
     },
