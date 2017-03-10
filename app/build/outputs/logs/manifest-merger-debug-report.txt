@@ -37,17 +37,17 @@ ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:9:5-11:35
 		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:10:9-47
 application
 ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:13:5-42:19
-MERGED from [com.android.support:cardview-v7:24.2.0] G:\SmartRefrigerator1\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:design:24.2.0] G:\SmartRefrigerator1\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:24.2.0] G:\SmartRefrigerator1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:24.2.0] G:\SmartRefrigerator1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:24.2.0] G:\SmartRefrigerator1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-v4:24.2.0] G:\SmartRefrigerator1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:24.2.0] G:\SmartRefrigerator1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:24.2.0] G:\SmartRefrigerator1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:24.2.0] G:\SmartRefrigerator1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:24.2.0] G:\SmartRefrigerator1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:24.2.0] G:\SmartRefrigerator1\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:cardview-v7:24.2.0] C:\Users\User\.android\build-cache\7c55bda890cb45fc6d92da1d519709495a3db88b\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:24.2.0] C:\Users\User\.android\build-cache\d97b58f9ea56b18fd9a418810819aff526371fa2\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\User\.android\build-cache\996c7385d2c01c479d4a974253834bcfc4941e04\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\User\.android\build-cache\8891da1ccc809c3df07281fdab575d5e53912a16\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\User\.android\build-cache\6f9706d02492a0201dde9aa5b343fb073ce9d7ed\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.2.0] C:\Users\User\.android\build-cache\dc81cd538fa9454b5b962f8c6b23d0c79af19095\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\User\.android\build-cache\47e8282859dff8812fd72ea1f06d28fd752d713b\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\User\.android\build-cache\796ebb710ca8f74c8827e0c0053ce088d9db2138\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\User\.android\build-cache\d0dd826c4ade3a8d30de9ee897df8d4dc4b492ab\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\User\.android\build-cache\9434daa6519eb63c7b9a52d93d57daa54d82e923\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] C:\Users\User\.android\build-cache\2d70ec69884d56ec94b21e32a756e49ea6b1d299\output\AndroidManifest.xml:25:5-20
 	android:label
 		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:16:9-41
 	android:supportsRtl
@@ -122,20 +122,20 @@ ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:41:9-56
 		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:41:19-44
 uses-sdk
 INJECTED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:cardview-v7:24.2.0] G:\SmartRefrigerator1\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:design:24.2.0] G:\SmartRefrigerator1\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:24.2.0] G:\SmartRefrigerator1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:24.2.0] G:\SmartRefrigerator1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:24.2.0] G:\SmartRefrigerator1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:support-v4:24.2.0] G:\SmartRefrigerator1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:24.2.0] G:\SmartRefrigerator1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-utils:24.2.0] G:\SmartRefrigerator1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-media-compat:24.2.0] G:\SmartRefrigerator1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:recyclerview-v7:24.2.0] G:\SmartRefrigerator1\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-core-ui:24.2.0] G:\SmartRefrigerator1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:24.2.0] G:\SmartRefrigerator1\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:cardview-v7:24.2.0] C:\Users\User\.android\build-cache\7c55bda890cb45fc6d92da1d519709495a3db88b\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:24.2.0] C:\Users\User\.android\build-cache\d97b58f9ea56b18fd9a418810819aff526371fa2\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\User\.android\build-cache\996c7385d2c01c479d4a974253834bcfc4941e04\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\User\.android\build-cache\8891da1ccc809c3df07281fdab575d5e53912a16\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\User\.android\build-cache\6f9706d02492a0201dde9aa5b343fb073ce9d7ed\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.2.0] C:\Users\User\.android\build-cache\dc81cd538fa9454b5b962f8c6b23d0c79af19095\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\User\.android\build-cache\47e8282859dff8812fd72ea1f06d28fd752d713b\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\User\.android\build-cache\796ebb710ca8f74c8827e0c0053ce088d9db2138\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\User\.android\build-cache\d0dd826c4ade3a8d30de9ee897df8d4dc4b492ab\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:recyclerview-v7:24.2.0] C:\Users\User\.android\build-cache\eee12bd15bbef0d4e3bfde1d1d34194b4a6ec854\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\User\.android\build-cache\9434daa6519eb63c7b9a52d93d57daa54d82e923\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.0] C:\Users\User\.android\build-cache\2d70ec69884d56ec94b21e32a756e49ea6b1d299\output\AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:24.2.0] G:\SmartRefrigerator1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:24.2.0] C:\Users\User\.android\build-cache\996c7385d2c01c479d4a974253834bcfc4941e04\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		INJECTED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml
 		INJECTED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml
