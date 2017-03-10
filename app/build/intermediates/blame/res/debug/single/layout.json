@@ -12,12 +12,12 @@
         "source": "C:\\Users\\User\\.android\\build-cache\\d97b58f9ea56b18fd9a418810819aff526371fa2\\output\\res\\layout\\design_navigation_item_subheader.xml"
     },
     {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\layout\\abc_list_menu_item_layout.xml"
-    },
-    {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
         "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",

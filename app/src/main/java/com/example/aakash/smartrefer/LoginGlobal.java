@@ -13,7 +13,11 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.TextView;
 import android.widget.Toast;
+
+import com.daimajia.androidanimations.library.Techniques;
+import com.daimajia.androidanimations.library.YoYo;
 
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpResponse;
@@ -38,9 +42,9 @@ public class LoginGlobal extends AppCompatActivity {
 
     private EditText editTextUserName;
     private EditText editTextPassword;
-    private Button registerbut;
+    public Button registerbut;
     public static final String USER_NAME = "USERNAME";
-
+    TextView txtanim;
     String username;
     String password;
 
@@ -51,6 +55,14 @@ public class LoginGlobal extends AppCompatActivity {
       //  login1 = (Button)findViewById(R.id.btnLogin);
         editTextUserName = (EditText) findViewById(R.id.etEmail);
         editTextPassword = (EditText) findViewById(R.id.etPass);
+        txtanim = (TextView)findViewById(R.id.animtext);
+        animationhere();
+        txtanim.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                animationhere();
+            }
+        });
         registerbut = (Button) findViewById(R.id.btnReg);
         registerbut.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -59,6 +71,28 @@ public class LoginGlobal extends AppCompatActivity {
             }
         });
 
+    }
+    public void animationhere(){
+        YoYo.with(Techniques.Tada)
+                .duration(999)
+                .repeat(10)
+                .playOn(findViewById(R.id.animtext));
+        YoYo.with(Techniques.ZoomIn)
+                .duration(999)
+                .repeat(3)
+                .playOn(findViewById(R.id.etEmail));
+        YoYo.with(Techniques.RubberBand)
+                .duration(999)
+                .repeat(3)
+                .playOn(findViewById(R.id.etPass));
+        YoYo.with(Techniques.Swing)
+                .duration(999)
+                .repeat(3)
+                .playOn(findViewById(R.id.btnLogin));
+        YoYo.with(Techniques.Shake)
+                .duration(999)
+                .repeat(3)
+                .playOn(findViewById(R.id.btnReg));
     }
 
     public void invokeLogin(View view){

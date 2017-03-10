@@ -4,12 +4,12 @@
         "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
-    },
-    {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a1.jpg",
         "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a1.jpg"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a7.jpg",
@@ -28,12 +28,12 @@
         "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a15.jpg"
     },
     {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\d97b58f9ea56b18fd9a418810819aff526371fa2\\output\\res\\drawable\\design_snackbar_background.xml"
-    },
-    {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
         "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\d97b58f9ea56b18fd9a418810819aff526371fa2\\output\\res\\drawable\\design_snackbar_background.xml"
     },
     {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abcc.jpg",
