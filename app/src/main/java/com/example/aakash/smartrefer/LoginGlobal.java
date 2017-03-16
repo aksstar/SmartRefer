@@ -15,10 +15,6 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
-
-import com.daimajia.androidanimations.library.Techniques;
-import com.daimajia.androidanimations.library.YoYo;
-
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpResponse;
 import org.apache.http.NameValuePair;
@@ -52,10 +48,11 @@ public class LoginGlobal extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-      //  login1 = (Button)findViewById(R.id.btnLogin);
+        //login1 = (Button)findViewById(R.id.btnLogin);
         editTextUserName = (EditText) findViewById(R.id.etEmail);
         editTextPassword = (EditText) findViewById(R.id.etPass);
-        txtanim = (TextView)findViewById(R.id.animtext);
+
+       /* txtanim = (TextView)findViewById(R.id.animtext);
         animationhere();
         txtanim.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -63,7 +60,7 @@ public class LoginGlobal extends AppCompatActivity {
                 animationhere();
             }
         });
-        registerbut = (Button) findViewById(R.id.btnReg);
+       */ registerbut = (Button) findViewById(R.id.btnReg);
         registerbut.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -72,6 +69,7 @@ public class LoginGlobal extends AppCompatActivity {
         });
 
     }
+/*
     public void animationhere(){
         YoYo.with(Techniques.Tada)
                 .duration(999)
@@ -94,6 +92,7 @@ public class LoginGlobal extends AppCompatActivity {
                 .repeat(3)
                 .playOn(findViewById(R.id.btnReg));
     }
+*/
 
     public void invokeLogin(View view){
         username = editTextUserName.getText().toString();

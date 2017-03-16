@@ -1,78 +1,106 @@
 [
     {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     },
     {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\color\\abc_tint_seek_thumb.xml"
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\color\\abc_btn_colored_text_material.xml"
     },
     {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\color\\abc_search_url_text.xml"
-    },
-    {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\color\\abc_secondary_text_material_light.xml"
-    },
-    {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_secondary_text_holo_dark.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\483ebb07940a2a888b400c4e6ec4a221e5ddca52\\output\\res\\color\\wallet_secondary_text_holo_dark.xml"
     },
     {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\color\\abc_tint_btn_checkable.xml"
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\color\\abc_tint_btn_checkable.xml"
     },
     {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\color\\switch_thumb_material_dark.xml"
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\color\\switch_thumb_material_dark.xml"
     },
     {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
     },
     {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\color\\abc_primary_text_material_light.xml"
-    },
-    {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\color\\switch_thumb_material_light.xml"
-    },
-    {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\color\\abc_tint_edittext.xml"
-    },
-    {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\d97b58f9ea56b18fd9a418810819aff526371fa2\\output\\res\\color\\design_tint_password_toggle.xml"
-    },
-    {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\color\\abc_tint_default.xml"
-    },
-    {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\color\\abc_primary_text_material_dark.xml"
-    },
-    {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\color\\abc_tint_spinner.xml"
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\color\\abc_hint_foreground_material_light.xml"
     },
     {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\d97b58f9ea56b18fd9a418810819aff526371fa2\\output\\res\\color\\design_error.xml"
-    },
-    {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\color\\abc_tint_switch_thumb.xml"
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\color\\abc_tint_spinner.xml"
     },
     {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\color\\abc_tint_switch_track.xml"
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\8de633525b8d8d0e18aae7bf83b8ed4b2916d940\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_primary_text_holo_light.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\483ebb07940a2a888b400c4e6ec4a221e5ddca52\\output\\res\\color\\wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\8de633525b8d8d0e18aae7bf83b8ed4b2916d940\\output\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\5853ceecd7115c2ad60a569ccb1e68dc32ef2acb\\output\\res\\color\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\5853ceecd7115c2ad60a569ccb1e68dc32ef2acb\\output\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\color\\abc_tint_switch_thumb.xml"
     }
 ]

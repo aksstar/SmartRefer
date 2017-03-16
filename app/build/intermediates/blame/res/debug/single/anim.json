@@ -1,66 +1,58 @@
 [
     {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\anim\\abc_slide_out_bottom.xml"
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\d97b58f9ea56b18fd9a418810819aff526371fa2\\output\\res\\anim\\design_fab_out.xml"
+        "source": "C:\\Users\\User\\.android\\build-cache\\5853ceecd7115c2ad60a569ccb1e68dc32ef2acb\\output\\res\\anim\\design_fab_out.xml"
     },
     {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\anim\\abc_fade_out.xml"
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\anim\\abc_fade_out.xml"
     },
     {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\anim\\abc_slide_out_top.xml"
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\anim\\abc_slide_out_top.xml"
     },
     {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\anim\\abc_popup_enter.xml"
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\anim\\abc_popup_enter.xml"
     },
     {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\anim\\abc_slide_in_bottom.xml"
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\anim\\abc_popup_exit.xml"
-    },
-    {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\d97b58f9ea56b18fd9a418810819aff526371fa2\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\anim\\abc_popup_exit.xml"
     },
     {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\d97b58f9ea56b18fd9a418810819aff526371fa2\\output\\res\\anim\\design_snackbar_out.xml"
+        "source": "C:\\Users\\User\\.android\\build-cache\\5853ceecd7115c2ad60a569ccb1e68dc32ef2acb\\output\\res\\anim\\design_snackbar_out.xml"
     },
     {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\anim\\abc_fade_in.xml"
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\anim\\abc_fade_in.xml"
     },
     {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\d97b58f9ea56b18fd9a418810819aff526371fa2\\output\\res\\anim\\design_fab_in.xml"
-    },
-    {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\d97b58f9ea56b18fd9a418810819aff526371fa2\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+        "source": "C:\\Users\\User\\.android\\build-cache\\5853ceecd7115c2ad60a569ccb1e68dc32ef2acb\\output\\res\\anim\\design_fab_in.xml"
     },
     {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\anim\\abc_slide_in_top.xml"
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\anim\\abc_slide_in_top.xml"
     },
     {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\d97b58f9ea56b18fd9a418810819aff526371fa2\\output\\res\\anim\\design_snackbar_in.xml"
+        "source": "C:\\Users\\User\\.android\\build-cache\\5853ceecd7115c2ad60a569ccb1e68dc32ef2acb\\output\\res\\anim\\design_snackbar_in.xml"
     }
 ]

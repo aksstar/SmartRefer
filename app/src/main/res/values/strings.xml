@@ -8,4 +8,6 @@
     <string name="title_activity_dashboard">Dashboard</string>
     <string name="title_activity_board1">board1</string>
     <string name="title_activity_popupscan">popupscan</string>
+    <string name="title_activity_maps">Ngo</string>
+    <string name="title_activity_wastein">wastein</string>
 </resources>

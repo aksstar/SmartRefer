@@ -18,6 +18,7 @@ public class recycler extends RecyclerView.Adapter<recycler.ViewHolder> {
 
     private String[] titles = {"Scan",
             "Recipies",
+            "Detect Veg",
             "Shopping List",
             "New Food",
             "Dashboard",
@@ -25,24 +26,26 @@ public class recycler extends RecyclerView.Adapter<recycler.ViewHolder> {
             "Kids Section",
             "Waste Management",
             "Nutrition Chart"
-            };
+    };
 
     private String[] details = {"Item one details",
             "Item two details", "Item three details",
             "Item four details", "Item file details",
             "Item six details", "Item seven details",
             "Item eight details","Item eight details",
-            "Item nine details"};
+            "Item nine details",
+            "Item Ten Details"};
 
-    private int[] images = { R.drawable.pp5,
+    private int[] images = {R.drawable.scan,
             R.drawable.pp2,
             R.drawable.pp3,
             R.drawable.pp4,
             R.drawable.pp6,
-            R.drawable.pp1,
-            R.drawable.pp7,
-            R.drawable.pp8,
-            R.drawable.pp8};
+            R.drawable.messages_512,
+            R.drawable.ngo,
+            R.drawable.kids,
+            R.drawable.waste,
+            R.drawable.nutritionchart};
 
     class ViewHolder extends RecyclerView.ViewHolder{
 
@@ -69,33 +72,37 @@ public class recycler extends RecyclerView.Adapter<recycler.ViewHolder> {
                         case 0:
                             intent = new Intent(v.getContext(), Scanactivty.class);
                             break;
-                        case 4:
-                            intent = new Intent(v.getContext(), dashboardaddd.class);
-                            break;
-                        case 5:
-                            intent = new Intent(v.getContext(), Recipie.class);
-                            intent.putExtra("url","http://projectrefrigerator.pe.hu/nindex.php");
-                            break;
-                        case 3:
-                            intent = new Intent(v.getContext(), addthings.class);
-                            break;
-                        case 2:
-                             intent = new Intent(v.getContext(), shoppinglist.class);
-                            break;
-                        case 6:
-                            intent=new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.youtube.com/results?search_query=healthy+recipes+for+kids"));
-                            break;
                         case 1:
                             intent = new Intent(v.getContext(), Recipie.class);
                             intent.putExtra("url","http://projectrefrigerator.pe.hu/rindex.php");
                             break;
+                        case 2:
+                            intent = new Intent(v.getContext(), FoodUiActivity.class);
+                            break;
+                        case 3:
+                            intent = new Intent(v.getContext(), shop.class);
+                            intent.putExtra("url","http://projectrefrigerator.pe.hu/add-record-form.php");
+                            break;
+                        case 4:
+                            intent = new Intent(v.getContext(), addthings.class);
+                            break;
+                        case 5:
+                            intent = new Intent(v.getContext(), dashboardaddd.class);
+                            break;
+                        case 6:
+						intent = new Intent(v.getContext(), MapsActivity.class);
+                           // url = "http://www.karmayog.org/nonprofits/npogriddisplay.asp?r=476";
+                            //intent = new Intent(Intent.ACTION_VIEW);
+                            //intent.setData(Uri.parse(url));
+                            break;
                         case 7:
-                            url = "http://www.biogas-india.com/contact.php";
-                            intent = new Intent(Intent.ACTION_VIEW);
-                            intent.setData(Uri.parse(url));
+                            intent=new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.youtube.com/results?search_query=healthy+recipes+for+kids"));
                             break;
                         case 8:
-                            intent = new Intent(v.getContext(), nutrients.class);
+                            intent = new Intent(v.getContext(), MapsActivity1.class);
+                           // url = "http://www.biogas-india.com/contact.php";
+                            //intent = new Intent(Intent.ACTION_VIEW);
+                            //intent.setData(Uri.parse(url));
                             break;
                         case 9:
                             intent = new Intent(v.getContext(), nutrients.class);

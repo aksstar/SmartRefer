@@ -1,47 +1,15 @@
 [
     {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\drawable\\abc_edit_text_material.xml"
-    },
-    {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a1.jpg",
-        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a1.jpg"
-    },
-    {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
-    },
-    {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a7.jpg",
-        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a7.jpg"
-    },
-    {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pp7.gif",
-        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\pp7.gif"
-    },
-    {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fri.jpg",
-        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\fri.jpg"
-    },
-    {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a15.jpg",
-        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a15.jpg"
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\d97b58f9ea56b18fd9a418810819aff526371fa2\\output\\res\\drawable\\design_snackbar_background.xml"
-    },
-    {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abcc.jpg",
-        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\abcc.jpg"
-    },
-    {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_sub_action_selector.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\e7168bdd078536ddd6630222bcb092ea899be99b\\output\\res\\drawable\\button_sub_action_selector.xml"
     },
     {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a8.jpg",
@@ -49,211 +17,171 @@
     },
     {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pp4.png",
-        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\pp4.png"
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_on_light.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\c7b8d09eaef45b15cb6f63d479e4552606a40319\\output\\res\\drawable\\mr_ic_media_route_on_light.xml"
     },
     {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a2.jpg",
-        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a2.jpg"
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b19.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\b19.jpg"
     },
     {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\drawable\\abc_dialog_material_background.xml"
-    },
-    {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pp5.png",
-        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\pp5.png"
-    },
-    {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\drawable\\abc_btn_colored_material.xml"
-    },
-    {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a19.gif",
-        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a19.gif"
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_stop_live_stream.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\7ac626b83d59015b70a5d09236911b0ce54dc61f\\output\\res\\drawable\\cast_ic_notification_stop_live_stream.xml"
     },
     {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jog.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\jog.jpg"
     },
     {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\images.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\images.jpg"
     },
     {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\drawable\\abc_text_cursor_material.xml"
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_play.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\7ac626b83d59015b70a5d09236911b0ce54dc61f\\output\\res\\drawable\\cast_ic_notification_play.xml"
     },
     {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
-    },
-    {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward30.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\7ac626b83d59015b70a5d09236911b0ce54dc61f\\output\\res\\drawable\\cast_ic_notification_forward30.xml"
     },
     {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\8de633525b8d8d0e18aae7bf83b8ed4b2916d940\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
     },
     {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\d97b58f9ea56b18fd9a418810819aff526371fa2\\output\\res\\drawable\\design_fab_background.xml"
-    },
-    {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a14.jpg",
-        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a14.jpg"
+        "source": "C:\\Users\\User\\.android\\build-cache\\5853ceecd7115c2ad60a569ccb1e68dc32ef2acb\\output\\res\\drawable\\design_fab_background.xml"
     },
     {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a11.jpg",
         "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a11.jpg"
     },
     {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_edge.png",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\ic_edge.png"
     },
     {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\contourbanana.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\contourbanana.jpg"
     },
     {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\starry_night.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\starry_night.jpg"
     },
     {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a4.jpg",
         "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a4.jpg"
     },
     {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\drawable\\abc_btn_check_material.xml"
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.xml",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\bg.xml"
     },
     {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\d97b58f9ea56b18fd9a418810819aff526371fa2\\output\\res\\drawable\\navigation_empty_icon.xml"
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_pause.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\7ac626b83d59015b70a5d09236911b0ce54dc61f\\output\\res\\drawable\\cast_ic_expanded_controller_pause.xml"
     },
     {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\drawable\\abc_ratingbar_material.xml"
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messages_512.png",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\messages_512.png"
     },
     {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\drawable\\abc_btn_radio_material.xml"
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_plus.png",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\ic_plus.png"
     },
     {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\7ac626b83d59015b70a5d09236911b0ce54dc61f\\output\\res\\drawable\\cast_ic_mini_controller_stop.xml"
     },
     {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dp.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\dp.jpg"
     },
     {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a17.jpg",
-        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a17.jpg"
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\8de633525b8d8d0e18aae7bf83b8ed4b2916d940\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
     },
     {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a12.jpg",
-        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a12.jpg"
-    },
-    {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a20.jpg",
-        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a20.jpg"
-    },
-    {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a9.jpg",
-        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a9.jpg"
-    },
-    {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\me.jpg",
-        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\me.jpg"
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_sub_action_dark_selector.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\e7168bdd078536ddd6630222bcb092ea899be99b\\output\\res\\drawable\\button_sub_action_dark_selector.xml"
     },
     {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pp1.png",
-        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\pp1.png"
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_seekbar_track.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\7ac626b83d59015b70a5d09236911b0ce54dc61f\\output\\res\\drawable\\cast_expanded_controller_seekbar_track.xml"
     },
     {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a5.jpg",
-        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a5.jpg"
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_button_blue.xml",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\selector_button_blue.xml"
     },
     {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a21.jpg",
         "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a21.jpg"
     },
     {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\images7.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\images7.jpg"
     },
     {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a16.jpg",
-        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a16.jpg"
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_next.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\7ac626b83d59015b70a5d09236911b0ce54dc61f\\output\\res\\drawable\\cast_ic_notification_skip_next.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\apple_honecrisp.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\apple_honecrisp.jpg"
     },
     {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a13.jpg",
-        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a13.jpg"
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_bg_gradient_light.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\7ac626b83d59015b70a5d09236911b0ce54dc61f\\output\\res\\drawable\\cast_expanded_controller_bg_gradient_light.xml"
     },
     {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\c7b8d09eaef45b15cb6f63d479e4552606a40319\\output\\res\\drawable\\mr_ic_cast_light.xml"
     },
     {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\new1.jpg",
-        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\new1.jpg"
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\8de633525b8d8d0e18aae7bf83b8ed4b2916d940\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
     },
     {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a10.jpg",
-        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a10.jpg"
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\3405aa07a77d9c5ec87c9afc03087a9077901b79\\output\\res\\drawable\\cast_ic_notification_connecting.xml"
     },
     {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\drawable\\abc_ic_search_api_material.xml"
-    },
-    {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
-    },
-    {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pp8.jpg",
-        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\pp8.jpg"
-    },
-    {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a6.jpg",
-        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a6.jpg"
-    },
-    {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\drawable\\abc_vector_test.xml"
-    },
-    {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_dark.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\c7b8d09eaef45b15cb6f63d479e4552606a40319\\output\\res\\drawable\\mr_ic_cast_dark.xml"
     },
     {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\drawable\\abc_ic_clear_material.xml"
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_button_green.xml",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\selector_button_green.xml"
     },
     {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pp3.png",
-        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\pp3.png"
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\c7b8d09eaef45b15cb6f63d479e4552606a40319\\output\\res\\drawable\\mr_ic_media_route_mono_light.xml"
     },
     {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pp2.jpg",
@@ -264,23 +192,587 @@
         "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a18.jpg"
     },
     {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a3.jpg",
-        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a3.jpg"
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pp3.png",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\pp3.png"
     },
     {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\drawable\\abc_textfield_search_material.xml"
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\996c7385d2c01c479d4a974253834bcfc4941e04\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
-    },
-    {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_ic_visibility.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\d97b58f9ea56b18fd9a418810819aff526371fa2\\output\\res\\drawable\\design_ic_visibility.xml"
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\c7b8d09eaef45b15cb6f63d479e4552606a40319\\output\\res\\drawable\\mr_ic_pause_light.xml"
     },
     {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pp6.png",
         "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\pp6.png"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_previous.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\7ac626b83d59015b70a5d09236911b0ce54dc61f\\output\\res\\drawable\\cast_ic_expanded_controller_skip_previous.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\carrot5.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\carrot5.jpg"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a1.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a1.jpg"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\images3.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\images3.jpg"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_light.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\c7b8d09eaef45b15cb6f63d479e4552606a40319\\output\\res\\drawable\\mr_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind10.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\7ac626b83d59015b70a5d09236911b0ce54dc61f\\output\\res\\drawable\\cast_ic_notification_rewind10.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a15.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a15.jpg"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_button_purple.xml",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\selector_button_purple.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\images4.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\images4.jpg"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_rewind30.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\7ac626b83d59015b70a5d09236911b0ce54dc61f\\output\\res\\drawable\\cast_ic_mini_controller_rewind30.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_light.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\c7b8d09eaef45b15cb6f63d479e4552606a40319\\output\\res\\drawable\\mr_ic_media_route_connecting_light.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\7ac626b83d59015b70a5d09236911b0ce54dc61f\\output\\res\\drawable\\cast_ic_mini_controller_play.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_action_selector.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\e7168bdd078536ddd6630222bcb092ea899be99b\\output\\res\\drawable\\button_action_selector.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_collapse.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\c7b8d09eaef45b15cb6f63d479e4552606a40319\\output\\res\\drawable\\ic_collapse.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_filter.png",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\ic_filter.png"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\images2.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\images2.jpg"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_button_gold.xml",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\selector_button_gold.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_stop.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\7ac626b83d59015b70a5d09236911b0ce54dc61f\\output\\res\\drawable\\cast_ic_expanded_controller_stop.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ban4.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\ban4.jpg"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\5853ceecd7115c2ad60a569ccb1e68dc32ef2acb\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_close_light.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\c7b8d09eaef45b15cb6f63d479e4552606a40319\\output\\res\\drawable\\mr_ic_close_light.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a17.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a17.jpg"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_skip_ad_label_border.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\7ac626b83d59015b70a5d09236911b0ce54dc61f\\output\\res\\drawable\\cast_skip_ad_label_border.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_gold_dark.png",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\button_gold_dark.png"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a20.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a20.jpg"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind30.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\7ac626b83d59015b70a5d09236911b0ce54dc61f\\output\\res\\drawable\\cast_ic_notification_rewind30.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\7ac626b83d59015b70a5d09236911b0ce54dc61f\\output\\res\\drawable\\cast_ic_mini_controller_pause.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a16.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a16.jpg"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a10.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a10.jpg"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_progress_drawable.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\7ac626b83d59015b70a5d09236911b0ce54dc61f\\output\\res\\drawable\\cast_mini_controller_progress_drawable.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_on_dark.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\c7b8d09eaef45b15cb6f63d479e4552606a40319\\output\\res\\drawable\\mr_ic_media_route_on_dark.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a6.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a6.jpg"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\7ac626b83d59015b70a5d09236911b0ce54dc61f\\output\\res\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_disconnect.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\7ac626b83d59015b70a5d09236911b0ce54dc61f\\output\\res\\drawable\\cast_ic_notification_disconnect.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shapes.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\shapes.jpg"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_green_dark.png",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\button_green_dark.png"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_blue.png",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\button_blue.png"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a7.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a7.jpg"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fri.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\fri.jpg"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\5853ceecd7115c2ad60a569ccb1e68dc32ef2acb\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abcc.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\abcc.jpg"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_camera.png",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\ic_camera.png"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\c7b8d09eaef45b15cb6f63d479e4552606a40319\\output\\res\\drawable\\mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop_large.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\7ac626b83d59015b70a5d09236911b0ce54dc61f\\output\\res\\drawable\\cast_ic_mini_controller_stop_large.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play_large.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\7ac626b83d59015b70a5d09236911b0ce54dc61f\\output\\res\\drawable\\cast_ic_mini_controller_play_large.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\7ac626b83d59015b70a5d09236911b0ce54dc61f\\output\\res\\drawable\\cast_ic_notification_rewind.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_gradient_light.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\7ac626b83d59015b70a5d09236911b0ce54dc61f\\output\\res\\drawable\\cast_mini_controller_gradient_light.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\8de633525b8d8d0e18aae7bf83b8ed4b2916d940\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\images8.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\images8.jpg"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_forward30.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\7ac626b83d59015b70a5d09236911b0ce54dc61f\\output\\res\\drawable\\cast_ic_mini_controller_forward30.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_mute.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\7ac626b83d59015b70a5d09236911b0ce54dc61f\\output\\res\\drawable\\cast_ic_expanded_controller_mute.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ngo.png",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\ngo.png"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_next.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\7ac626b83d59015b70a5d09236911b0ce54dc61f\\output\\res\\drawable\\cast_ic_expanded_controller_skip_next.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_expand.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\c7b8d09eaef45b15cb6f63d479e4552606a40319\\output\\res\\drawable\\ic_expand.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\7ac626b83d59015b70a5d09236911b0ce54dc61f\\output\\res\\drawable\\cast_ic_notification_forward.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\c7b8d09eaef45b15cb6f63d479e4552606a40319\\output\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buttonshape.xml",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\buttonshape.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause_large.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\7ac626b83d59015b70a5d09236911b0ce54dc61f\\output\\res\\drawable\\cast_ic_mini_controller_pause_large.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a12.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a12.jpg"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_prev.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\7ac626b83d59015b70a5d09236911b0ce54dc61f\\output\\res\\drawable\\cast_ic_notification_skip_prev.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\images1.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\images1.jpg"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\speaker2.png",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\speaker2.png"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\8de633525b8d8d0e18aae7bf83b8ed4b2916d940\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a5.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a5.jpg"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scan.png",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\scan.png"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_action_dark_selector.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\e7168bdd078536ddd6630222bcb092ea899be99b\\output\\res\\drawable\\button_action_dark_selector.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\new1.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\new1.jpg"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward10.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\7ac626b83d59015b70a5d09236911b0ce54dc61f\\output\\res\\drawable\\cast_ic_notification_forward10.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\c7b8d09eaef45b15cb6f63d479e4552606a40319\\output\\res\\drawable\\mr_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\8de633525b8d8d0e18aae7bf83b8ed4b2916d940\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\waste.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\waste.jpg"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_closed_caption.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\7ac626b83d59015b70a5d09236911b0ce54dc61f\\output\\res\\drawable\\cast_ic_expanded_controller_closed_caption.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_closed_caption.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\7ac626b83d59015b70a5d09236911b0ce54dc61f\\output\\res\\drawable\\cast_ic_mini_controller_closed_caption.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\8de633525b8d8d0e18aae7bf83b8ed4b2916d940\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_purple.png",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\button_purple.png"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_rewind30.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\7ac626b83d59015b70a5d09236911b0ce54dc61f\\output\\res\\drawable\\cast_ic_expanded_controller_rewind30.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_blue_dark.png",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\button_blue_dark.png"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_gold.png",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\button_gold.png"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_pause.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\7ac626b83d59015b70a5d09236911b0ce54dc61f\\output\\res\\drawable\\cast_ic_notification_pause.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pp4.png",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\pp4.png"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_forward30.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\7ac626b83d59015b70a5d09236911b0ce54dc61f\\output\\res\\drawable\\cast_ic_expanded_controller_forward30.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a2.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a2.jpg"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_audiotrack_light.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\c7b8d09eaef45b15cb6f63d479e4552606a40319\\output\\res\\drawable\\mr_ic_audiotrack_light.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_red_dark.png",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\button_red_dark.png"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a19.gif",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a19.gif"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\carrot.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\carrot.jpg"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_green.png",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\button_green.png"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_button_red.xml",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\selector_button_red.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_seekbar_thumb.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\7ac626b83d59015b70a5d09236911b0ce54dc61f\\output\\res\\drawable\\cast_expanded_controller_seekbar_thumb.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a14.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a14.jpg"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\images5.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\images5.jpg"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\c7b8d09eaef45b15cb6f63d479e4552606a40319\\output\\res\\drawable\\mr_ic_play_light.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_play.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\7ac626b83d59015b70a5d09236911b0ce54dc61f\\output\\res\\drawable\\cast_ic_expanded_controller_play.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\images6.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\images6.jpg"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\carrot2.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\carrot2.jpg"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_close_dark.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\c7b8d09eaef45b15cb6f63d479e4552606a40319\\output\\res\\drawable\\mr_ic_close_dark.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_red.png",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\button_red.png"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kids.gif",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\kids.gif"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\8de633525b8d8d0e18aae7bf83b8ed4b2916d940\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_small_icon.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\7ac626b83d59015b70a5d09236911b0ce54dc61f\\output\\res\\drawable\\cast_ic_notification_small_icon.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_purple_dark.png",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\button_purple_dark.png"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ban8.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\ban8.jpg"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ban2.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\ban2.jpg"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a9.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a9.jpg"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\me.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\me.jpg"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_prev.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\7ac626b83d59015b70a5d09236911b0ce54dc61f\\output\\res\\drawable\\cast_ic_mini_controller_skip_prev.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nutritionchart.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\nutritionchart.jpg"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_dark.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\c7b8d09eaef45b15cb6f63d479e4552606a40319\\output\\res\\drawable\\mr_ic_media_route_connecting_dark.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_next.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\7ac626b83d59015b70a5d09236911b0ce54dc61f\\output\\res\\drawable\\cast_ic_mini_controller_skip_next.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_feature.png",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\ic_feature.png"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a13.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a13.jpg"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\c7b8d09eaef45b15cb6f63d479e4552606a40319\\output\\res\\drawable\\mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_mute.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\7ac626b83d59015b70a5d09236911b0ce54dc61f\\output\\res\\drawable\\cast_ic_mini_controller_mute.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\5f09eeb6f4e02f22b9963f3ad95686615db10370\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\akbar_hunting_with_cheetahs.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\akbar_hunting_with_cheetahs.jpg"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a3.jpg",
+        "source": "G:\\SmartRefrigerator1\\app\\src\\main\\res\\drawable\\a3.jpg"
     }
 ]

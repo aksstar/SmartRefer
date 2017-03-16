@@ -1,15 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.aakash.smartrefer">
-    <uses-permission android:name="android.permission.INTERNET" />
+
+    <uses-permission android:name="ANDROID.PERMISSION.INTERNET" />
     <uses-permission android:name="ANDROID.PERMISSION.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.CAMERA" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
 
     <uses-feature
         android:name="android.hardware.camera"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.camera.autofocus"
+        android:required="false" />
+    <uses-feature
+        android:glEsVersion="0x00020000"
         android:required="true" />
+    <uses-feature
+        android:name="android.hardware.camera.front"
+        android:required="false" />
+    <uses-feature android:name="android.hardware.camera.front.autofocus" />
 
+    <!--
+         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+         Google Maps Android API v2, but you must specify either coarse or fine
+         location permissions for the 'MyLocation' functionality. 
+    -->
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -23,11 +42,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <!--<activity android:name=".MainActivity" />-->
+        <!-- <activity android:name=".MainActivity" /> -->
         <activity android:name=".DoThings" />
         <activity android:name=".LoginGlobal" />
         <activity android:name=".RegisterGlobal" />
         <activity android:name=".Scanactivty" />
+        <activity android:name=".FoodUiActivity" />
         <activity android:name=".Recipie" />
         <activity
             android:name=".dashboardaddd"
@@ -35,11 +55,29 @@
         <activity
             android:name=".board1"
             android:label="@string/title_activity_board1" />
-        <activity android:name=".ngo" />
         <activity android:name=".addthings" />
-        <activity android:name=".shoppinglist" />
-        <activity android:name=".CardDemoActivity"></activity>
-        <activity android:name=".nutrients"></activity>
+        <activity android:name=".shop" />
+        <activity android:name=".nutrients" />
+        <activity android:name=".CardDemoActivity" />
+        <activity android:name=".MapsActivity1" />
+        <activity android:name=".MapsActivity" />
+
+        <!--
+             The API key for Google Maps-based APIs is defined as a string resource.
+             (See the file "res/values/google_maps_api.xml").
+             Note that the API key is linked to the encryption key used to sign the APK.
+             You need a different API key for each encryption key, including the release key that is used to
+             sign the APK for publishing.
+             You can define the keys for the debug and release targets in src/debug/ and src/release/. 
+        -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyDTFTgm7dv7f26criaE0Pl5M4jnMQVjQSo" />
+
+        <activity
+            android:name=".wastein"
+            android:label="@string/title_activity_wastein"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>

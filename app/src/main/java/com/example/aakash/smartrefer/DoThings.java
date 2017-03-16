@@ -16,7 +16,7 @@ public class DoThings extends AppCompatActivity {
         Button x = (Button) findViewById(R.id.button);
         x.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                Intent intent = new Intent(getApplicationContext(), Scanactivty.class);
+                Intent intent = new Intent(getApplicationContext(), MapsActivity.class);
                 startActivity(intent);
             }
         });
@@ -25,15 +25,22 @@ public class DoThings extends AppCompatActivity {
             public void onClick(View v) {
                 Intent intent = new Intent(getApplicationContext(), dashboardaddd.class);
                 startActivity(intent);
+
+            }
+        });
+        Button ty = (Button) findViewById(R.id.button4);
+        ty.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                Intent intent = new Intent(getApplicationContext(),FoodUiActivity.class);
+                startActivity(intent);
             }
         });
         Button z = (Button) findViewById(R.id.button7);
         z.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                String url = "http://www.karmayog.org/nonprofits/npogriddisplay.asp?r=476";
-                Intent i = new Intent(Intent.ACTION_VIEW);
-                i.setData(Uri.parse(url));
-                startActivity(i);
+
+                Intent intent = new Intent(getApplicationContext(), Scanactivty.class);
+                startActivity(intent);
             }
         });
         Button zx = (Button) findViewById(R.id.button5);
@@ -59,7 +66,7 @@ public class DoThings extends AppCompatActivity {
         Button zxxxx = (Button) findViewById(R.id.button2);
         zxxxx.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                String url = "http://projectrefrigerator.pe.hu/rindex.php";
+                String url = "http://myfridgefood.com/";
                 Intent i = new Intent(Intent.ACTION_VIEW);
                 i.setData(Uri.parse(url));
                 startActivity(i);
