@@ -72,9 +72,9 @@ ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:25:5-76
 		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:25:19-73
 application
 ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:32:5-81:19
-MERGED from [com.android.support:cardview-v7:25.1.1] C:\Users\User\.android\build-cache\3ea9f964134691e7722d352cf04c21dc13f68d17\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:design:25.1.1] C:\Users\User\.android\build-cache\5853ceecd7115c2ad60a569ccb1e68dc32ef2acb\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:transition:25.1.1] C:\Users\User\.android\build-cache\e052ca25a0dfc3e7d7768bc57bbce7ef6daede0c\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:25.1.1] C:\Users\User\.android\build-cache\b9d4d7998d3b3a655d61ceb26a9e3ad25d59cf38\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:25.1.1] C:\Users\User\.android\build-cache\afc15fe0bf677c5c77b67f5cd16aa2680c2e8c2b\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:transition:25.1.1] C:\Users\User\.android\build-cache\d4f73ae6c6e23aed34f547c1bf443891c8716b62\output\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services:10.0.1] C:\Users\User\.android\build-cache\1dbd89c31d9e26faa7d9244b41a8b4525dea0efa\output\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\User\.android\build-cache\306b9c14dad8c9984b007a1f9a905dc490c15d23\output\AndroidManifest.xml:23:5-27:19
 MERGED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\User\.android\build-cache\9fcf6663b0171ebcc6d5c5e50f5db9899b54915f\output\AndroidManifest.xml:26:5-19
@@ -82,8 +82,8 @@ MERGED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\Use
 MERGED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\User\.android\build-cache\9314b922531d399282a86fe6eae55cdc797d8624\output\AndroidManifest.xml:19:5-25:19
 MERGED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\User\.android\build-cache\7ac626b83d59015b70a5d09236911b0ce54dc61f\output\AndroidManifest.xml:4:5-8:19
 MERGED from [com.google.android.gms:play-services-cast:10.0.1] C:\Users\User\.android\build-cache\3405aa07a77d9c5ec87c9afc03087a9077901b79\output\AndroidManifest.xml:18:5-19
-MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\User\.android\build-cache\c7b8d09eaef45b15cb6f63d479e4552606a40319\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\User\.android\build-cache\e38bcc2b30ec2881e5878db5a3764c2411c58812\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\User\.android\build-cache\5ae6a9f41363dd4bfa886000c3990322601b8e03\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\User\.android\build-cache\612213b354902c70bfed73cc4bfc25975890a02d\output\AndroidManifest.xml:22:5-23:19
 MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] C:\Users\User\.android\build-cache\75915765a19b11c397291d6cb29c242121f53ec7\output\AndroidManifest.xml:18:5-19
 MERGED from [com.google.firebase:firebase-config:10.0.1] C:\Users\User\.android\build-cache\9dc632e5bf0484ffa19ab75760a59364dcc15ce7\output\AndroidManifest.xml:18:5-19
 MERGED from [com.google.android.gms:play-services-awareness:10.0.1] C:\Users\User\.android\build-cache\3fde00832ec8dad21858d7f3b5a2273d2d28fdbe\output\AndroidManifest.xml:18:5-19
@@ -117,16 +117,16 @@ MERGED from [com.google.android.gms:play-services-wearable:10.0.1] C:\Users\User
 MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\User\.android\build-cache\8de633525b8d8d0e18aae7bf83b8ed4b2916d940\output\AndroidManifest.xml:18:5-20:19
 MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\User\.android\build-cache\4e302b238911672281b52153ba088e496120cdbe\output\AndroidManifest.xml:4:5-19
 MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\User\.android\build-cache\7a3259eedfe3acdf7319fc434d008becba4532f2\output\AndroidManifest.xml:19:5-21:19
-MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\User\.android\build-cache\5f09eeb6f4e02f22b9963f3ad95686615db10370\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\User\.android\build-cache\d70b013122f273f2d46464f19e912136abc1c908\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\User\.android\build-cache\f02f107d9baa68f6187a38920efd255c1e56d26b\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\User\.android\build-cache\6548c9883c3ccc775f8e16e148157f8f52de7a33\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\User\.android\build-cache\1f02fc3ec738cdc9cdc47f314f43a77b9f74c0a0\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\User\.android\build-cache\0c6dd0f82d713d0b804c7888663ff6dcea083265\output\AndroidManifest.xml:23:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\User\.android\build-cache\4c5a3b98e00ba55ff5a86674588c8d4486440f4a\output\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:support-v4:25.1.1] C:\Users\User\.android\build-cache\e3271075dd7c2ea40ff2d7060f30b30d7d241eb8\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\User\.android\build-cache\91808a9b8eb5f51df3b40044982ea4cbdce2fb6d\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\User\.android\build-cache\3aa4933168ae7b07f9ccab395a3c9e4f7040b948\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\User\.android\build-cache\7a7db237b8dcc9d34a9878ef96a12ec9c6c780c4\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\User\.android\build-cache\62943450e780ba0e9ef291f8d967589ed6a06a15\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:25.1.1] C:\Users\User\.android\build-cache\8706ee61b47a1f36bcc762aeb9a3056f4c951a6f\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\User\.android\build-cache\9b95b84c874f4ac544ea1b2f1c2972782f7c3e36\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\User\.android\build-cache\c758a2efcd8c1608b5a449528d74d09f2ba9f4ef\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\User\.android\build-cache\41ef9ef6a6dbb88b856dd95c9feb7ffde8283fec\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\User\.android\build-cache\b01b6cc64ad172e6204e2f965c01b23f83e7916c\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\User\.android\build-cache\7e349574a5f92d04016783d6b17df5d11b689efd\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\User\.android\build-cache\26d67a4ae5e714f08869543849cdce39689e2269\output\AndroidManifest.xml:25:5-20
 	android:label
 		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:35:9-41
 	android:supportsRtl
@@ -228,10 +228,10 @@ ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:77:9-80:68
 uses-sdk
 INJECTED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [SmartRefrigerator1:openCVLibrary310:unspecified] G:\SmartRefrigerator1\openCVLibrary310\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:cardview-v7:25.1.1] C:\Users\User\.android\build-cache\3ea9f964134691e7722d352cf04c21dc13f68d17\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:design:25.1.1] C:\Users\User\.android\build-cache\5853ceecd7115c2ad60a569ccb1e68dc32ef2acb\output\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:recyclerview-v7:25.1.1] C:\Users\User\.android\build-cache\436213f54ca366f0b4b8a6f0cc06b958cfceccc8\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:transition:25.1.1] C:\Users\User\.android\build-cache\e052ca25a0dfc3e7d7768bc57bbce7ef6daede0c\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:25.1.1] C:\Users\User\.android\build-cache\b9d4d7998d3b3a655d61ceb26a9e3ad25d59cf38\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:25.1.1] C:\Users\User\.android\build-cache\afc15fe0bf677c5c77b67f5cd16aa2680c2e8c2b\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.1.1] C:\Users\User\.android\build-cache\6e98b7b6701f8c4827a4ed93f6fcdf136fa9ec7c\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.1.1] C:\Users\User\.android\build-cache\d4f73ae6c6e23aed34f547c1bf443891c8716b62\output\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services:10.0.1] C:\Users\User\.android\build-cache\1dbd89c31d9e26faa7d9244b41a8b4525dea0efa\output\AndroidManifest.xml:4:5-42
 MERGED from [com.google.android.gms:play-services-ads:10.0.1] C:\Users\User\.android\build-cache\3f0f4e37926740311b3ede5d83f3f04e0e061fe4\output\AndroidManifest.xml:17:5-42
 MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\User\.android\build-cache\306b9c14dad8c9984b007a1f9a905dc490c15d23\output\AndroidManifest.xml:22:5-42
@@ -241,8 +241,8 @@ MERGED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\User\.an
 MERGED from [com.google.android.gms:play-services-auth-base:10.0.1] C:\Users\User\.android\build-cache\4993deeaffd54f866501229110adb01f8b835e45\output\AndroidManifest.xml:4:5-42
 MERGED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\User\.android\build-cache\7ac626b83d59015b70a5d09236911b0ce54dc61f\output\AndroidManifest.xml:3:5-42
 MERGED from [com.google.android.gms:play-services-cast:10.0.1] C:\Users\User\.android\build-cache\3405aa07a77d9c5ec87c9afc03087a9077901b79\output\AndroidManifest.xml:17:5-42
-MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\User\.android\build-cache\c7b8d09eaef45b15cb6f63d479e4552606a40319\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\User\.android\build-cache\e38bcc2b30ec2881e5878db5a3764c2411c58812\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\User\.android\build-cache\5ae6a9f41363dd4bfa886000c3990322601b8e03\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\User\.android\build-cache\612213b354902c70bfed73cc4bfc25975890a02d\output\AndroidManifest.xml:20:5-43
 MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] C:\Users\User\.android\build-cache\75915765a19b11c397291d6cb29c242121f53ec7\output\AndroidManifest.xml:17:5-42
 MERGED from [com.google.firebase:firebase-config:10.0.1] C:\Users\User\.android\build-cache\9dc632e5bf0484ffa19ab75760a59364dcc15ce7\output\AndroidManifest.xml:17:5-42
 MERGED from [com.google.android.gms:play-services-awareness:10.0.1] C:\Users\User\.android\build-cache\3fde00832ec8dad21858d7f3b5a2273d2d28fdbe\output\AndroidManifest.xml:17:5-42
@@ -285,19 +285,19 @@ MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\User\.a
 MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\User\.android\build-cache\7a3259eedfe3acdf7319fc434d008becba4532f2\output\AndroidManifest.xml:17:5-42
 MERGED from [com.oguzdev:CircularFloatingActionMenu:1.0.2] C:\Users\User\.android\build-cache\e7168bdd078536ddd6630222bcb092ea899be99b\output\AndroidManifest.xml:7:5-9:41
 MERGED from [com.yahoo.mobile.client.android.util.rangeseekbar:rangeseekbar-library:0.1.0] C:\Users\User\.android\build-cache\b362df2d4fdd6a86795622bd76206262f84bc2e2\output\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\User\.android\build-cache\5f09eeb6f4e02f22b9963f3ad95686615db10370\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\User\.android\build-cache\d70b013122f273f2d46464f19e912136abc1c908\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\User\.android\build-cache\f02f107d9baa68f6187a38920efd255c1e56d26b\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\User\.android\build-cache\6548c9883c3ccc775f8e16e148157f8f52de7a33\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\User\.android\build-cache\1f02fc3ec738cdc9cdc47f314f43a77b9f74c0a0\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\User\.android\build-cache\0c6dd0f82d713d0b804c7888663ff6dcea083265\output\AndroidManifest.xml:21:5-43
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\User\.android\build-cache\4c5a3b98e00ba55ff5a86674588c8d4486440f4a\output\AndroidManifest.xml:5:5-7:41
 MERGED from [com.twilio:client-android:1.2.18] C:\Users\User\.android\build-cache\704daec34e44624e08eda17ef85819bbac142b5a\output\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:support-v4:25.1.1] C:\Users\User\.android\build-cache\e3271075dd7c2ea40ff2d7060f30b30d7d241eb8\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\User\.android\build-cache\91808a9b8eb5f51df3b40044982ea4cbdce2fb6d\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\User\.android\build-cache\3aa4933168ae7b07f9ccab395a3c9e4f7040b948\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\User\.android\build-cache\7a7db237b8dcc9d34a9878ef96a12ec9c6c780c4\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\User\.android\build-cache\62943450e780ba0e9ef291f8d967589ed6a06a15\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.1.1] C:\Users\User\.android\build-cache\8706ee61b47a1f36bcc762aeb9a3056f4c951a6f\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\User\.android\build-cache\9b95b84c874f4ac544ea1b2f1c2972782f7c3e36\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\User\.android\build-cache\c758a2efcd8c1608b5a449528d74d09f2ba9f4ef\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\User\.android\build-cache\41ef9ef6a6dbb88b856dd95c9feb7ffde8283fec\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\User\.android\build-cache\b01b6cc64ad172e6204e2f965c01b23f83e7916c\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\User\.android\build-cache\7e349574a5f92d04016783d6b17df5d11b689efd\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\User\.android\build-cache\26d67a4ae5e714f08869543849cdce39689e2269\output\AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:25.1.1] C:\Users\User\.android\build-cache\5853ceecd7115c2ad60a569ccb1e68dc32ef2acb\output\AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:25.1.1] C:\Users\User\.android\build-cache\afc15fe0bf677c5c77b67f5cd16aa2680c2e8c2b\output\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
 		INJECTED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml
 		INJECTED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml

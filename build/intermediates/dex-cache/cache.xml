@@ -12,6 +12,159 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\6548c9883c3ccc775f8e16e148157f8f52de7a33\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="G:\SmartRefrigerator1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c2a371978557bf9a26b8a2294e62e7380043869f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\0c6dd0f82d713d0b804c7888663ff6dcea083265\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="G:\SmartRefrigerator1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_72c7df1a738caad8e8bbeb0382b36506eefb960a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\5ae6a9f41363dd4bfa886000c3990322601b8e03\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="G:\SmartRefrigerator1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_6fbe7ab137a414f3b3f1a72a9c54ae17e6891e39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\1f02fc3ec738cdc9cdc47f314f43a77b9f74c0a0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="G:\SmartRefrigerator1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b7784ee854808c06e4c4dd8a013883a62f317baa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\4c5a3b98e00ba55ff5a86674588c8d4486440f4a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="G:\SmartRefrigerator1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0df712dfa45842b8e9b48890f84fa886f1519237\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="G:\SmartRefrigerator1\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_147000bf655aeaee51289f9ec8c182b65456aa66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\6e98b7b6701f8c4827a4ed93f6fcdf136fa9ec7c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="G:\SmartRefrigerator1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0b83cb4741caada7425e2f44612bf1978ce9e157\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\b01b6cc64ad172e6204e2f965c01b23f83e7916c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="G:\SmartRefrigerator1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_44cc717b68a7dd77e7a80b762b4252a1b410250c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\26d67a4ae5e714f08869543849cdce39689e2269\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="G:\SmartRefrigerator1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cf7d5166d22f3fc13d726b0c36aa911631e8cfdc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\5ae6a9f41363dd4bfa886000c3990322601b8e03\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="G:\SmartRefrigerator1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0ef71702a7d651d9befb61372d46b4d7ba280187\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\612213b354902c70bfed73cc4bfc25975890a02d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="G:\SmartRefrigerator1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_91941f6352ddecb0c549cda127370cd0d632348a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\SmartRefrigerator1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5952dee60357c6f62c8072b06fd20db9ffc5c3f1">
+        <dex dex="G:\SmartRefrigerator1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_56be07e78ec44d3dd6e012ec846f90e9df470dda\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\9b95b84c874f4ac544ea1b2f1c2972782f7c3e36\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="G:\SmartRefrigerator1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ba25703aa082c2e8a1c4decca40d8d3b61383287\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\afc15fe0bf677c5c77b67f5cd16aa2680c2e8c2b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="G:\SmartRefrigerator1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_90fa31205e804fbd77bdcb325c11792d23023a4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\c758a2efcd8c1608b5a449528d74d09f2ba9f4ef\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="G:\SmartRefrigerator1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e2399bb52b08aff60321d2ba63ec87608031a4db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\b9d4d7998d3b3a655d61ceb26a9e3ad25d59cf38\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="G:\SmartRefrigerator1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_89e9bdb6f31608ec99b7e52fd85fd4afbc219a00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\d4f73ae6c6e23aed34f547c1bf443891c8716b62\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="G:\SmartRefrigerator1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5ea624986894e64a053f5ef141d867575f0b6894\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="G:\SmartRefrigerator1\app\libs\volley.jar"
         jumboMode="true"
         optimize="true"
@@ -21,21 +174,30 @@
     </item>
     <item
         is-multidex="true"
-        jar="G:\SmartRefrigerator1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="39dbb2c9e3e3292a30bb8411950b92711afe707c">
-        <dex dex="G:\SmartRefrigerator1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_56be07e78ec44d3dd6e012ec846f90e9df470dda\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="G:\SmartRefrigerator1\app\libs\GenAsync.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="6a58a869c275f3424cffb0c266d1d1c1518e38e7">
         <dex dex="G:\SmartRefrigerator1\app\build\intermediates\transforms\dex\debug\folders\1000\2\GenAsync_7b857342bd7feaf2753f33f963beb7d3d1f1d5fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\7e349574a5f92d04016783d6b17df5d11b689efd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="G:\SmartRefrigerator1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0ea8c8615548fa97b1eaefcb636a3b47eb036f40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\41ef9ef6a6dbb88b856dd95c9feb7ffde8283fec\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="G:\SmartRefrigerator1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_53796b45f2e129619b30c924404e3da17df7aba6\classes.dex" />
     </item>
 
 </items>

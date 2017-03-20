@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Smart Refrigerator</string>
+    <string name="app_name">Smart Food Manager</string>
 
     <string name="title_activity_scanacitivity">scanacitivity</string>
     <string name="dummy_button">Dummy Button</string>

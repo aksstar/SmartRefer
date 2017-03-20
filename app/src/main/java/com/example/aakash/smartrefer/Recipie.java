@@ -5,12 +5,15 @@ package com.example.aakash.smartrefer;
  */
 
 
+import android.app.ActionBar;
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.webkit.WebView;
+import android.webkit.WebViewClient;
 
-public class Recipie extends Activity {
+public class Recipie extends AppCompatActivity {
 
     private WebView webView;
     public String url;
@@ -24,7 +27,7 @@ public class Recipie extends Activity {
         webView = (WebView) findViewById(R.id.webview);
         webView.getSettings().setJavaScriptEnabled(true);
         webView.loadUrl(url);
-
+        //actionBar.show();
     }
 
 }
