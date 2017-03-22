@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:2:1-83:12
+ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:2:1-94:12
 	package
 		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:3:5-44
 		INJECTED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml
@@ -71,7 +71,7 @@ ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:25:5-76
 	android:name
 		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:25:19-73
 application
-ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:32:5-81:19
+ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:32:5-92:19
 MERGED from [com.android.support:cardview-v7:25.1.1] C:\Users\User\.android\build-cache\b9d4d7998d3b3a655d61ceb26a9e3ad25d59cf38\output\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:25.1.1] C:\Users\User\.android\build-cache\afc15fe0bf677c5c77b67f5cd16aa2680c2e8c2b\output\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:transition:25.1.1] C:\Users\User\.android\build-cache\d4f73ae6c6e23aed34f547c1bf443891c8716b62\output\AndroidManifest.xml:22:5-20
@@ -121,12 +121,12 @@ MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\User\.android\bui
 MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\User\.android\build-cache\1f02fc3ec738cdc9cdc47f314f43a77b9f74c0a0\output\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\User\.android\build-cache\0c6dd0f82d713d0b804c7888663ff6dcea083265\output\AndroidManifest.xml:23:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\User\.android\build-cache\4c5a3b98e00ba55ff5a86674588c8d4486440f4a\output\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:support-v4:25.1.1] C:\Users\User\.android\build-cache\9b95b84c874f4ac544ea1b2f1c2972782f7c3e36\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\User\.android\build-cache\c758a2efcd8c1608b5a449528d74d09f2ba9f4ef\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\User\.android\build-cache\41ef9ef6a6dbb88b856dd95c9feb7ffde8283fec\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\User\.android\build-cache\b01b6cc64ad172e6204e2f965c01b23f83e7916c\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\User\.android\build-cache\7e349574a5f92d04016783d6b17df5d11b689efd\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:25.1.1] C:\Users\User\.android\build-cache\26d67a4ae5e714f08869543849cdce39689e2269\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\User\.android\build-cache\00ce46da6470a39603608f54c21fedc6288c13e2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\User\.android\build-cache\64776c0deb3749adb3c16ea779d8c86e75ea6db4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\User\.android\build-cache\75f09e25e1197bfc3090e26acbd45d2129e79659\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\User\.android\build-cache\ab8f282a616abe1590092addd81c571ce44e92d7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\User\.android\build-cache\cd61439bc76d0c6938c71e81210f81f5ea83be9c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\User\.android\build-cache\05c2ef6f91e4a8976d1e4c88288fb6ea3f418b38\output\AndroidManifest.xml:29:5-20
 	android:label
 		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:35:9-41
 	android:supportsRtl
@@ -156,75 +156,91 @@ ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:46:9-46
 	android:name
 		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:46:19-43
 activity#com.example.aakash.smartrefer.LoginGlobal
-ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:47:9-49
+ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:52:9-49
 	android:name
-		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:47:19-46
+		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:52:19-46
 activity#com.example.aakash.smartrefer.RegisterGlobal
-ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:48:9-52
+ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:53:9-52
 	android:name
-		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:48:19-49
+		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:53:19-49
 activity#com.example.aakash.smartrefer.Scanactivty
-ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:49:9-49
+ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:54:9-49
 	android:name
-		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:49:19-46
+		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:54:19-46
 activity#com.example.aakash.smartrefer.FoodUiActivity
-ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:50:9-52
+ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:55:9-52
 	android:name
-		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:50:19-49
+		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:55:19-49
 activity#com.example.aakash.smartrefer.Recipie
-ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:51:9-45
+ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:56:9-45
 	android:name
-		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:51:19-42
+		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:56:19-42
 activity#com.example.aakash.smartrefer.dashboardaddd
-ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:52:9-54:64
+ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:57:9-59:64
 	android:label
-		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:54:13-61
+		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:59:13-61
 	android:name
-		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:53:13-42
+		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:58:13-42
 activity#com.example.aakash.smartrefer.board1
-ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:55:9-57:61
+ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:60:9-62:61
 	android:label
-		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:57:13-58
+		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:62:13-58
 	android:name
-		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:56:13-35
+		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:61:13-35
 activity#com.example.aakash.smartrefer.addthings
-ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:58:9-47
+ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:63:9-47
 	android:name
-		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:58:19-44
+		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:63:19-44
 activity#com.example.aakash.smartrefer.shop
-ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:59:9-42
+ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:64:9-42
 	android:name
-		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:59:19-39
+		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:64:19-39
 activity#com.example.aakash.smartrefer.nutrients
-ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:60:9-47
+ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:65:9-47
 	android:name
-		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:60:19-44
+		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:65:19-44
 activity#com.example.aakash.smartrefer.CardDemoActivity
-ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:61:9-54
+ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:66:9-54
 	android:name
-		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:61:19-51
+		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:66:19-51
 activity#com.example.aakash.smartrefer.MapsActivity1
-ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:62:9-51
+ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:67:9-51
 	android:name
-		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:62:19-48
+		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:67:19-48
 activity#com.example.aakash.smartrefer.MapsActivity
-ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:63:9-50
+ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:68:9-50
 	android:name
-		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:63:19-47
+		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:68:19-47
 meta-data#com.google.android.geo.API_KEY
-ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:73:9-75:71
+ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:78:9-80:71
 	android:value
-		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:75:13-68
+		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:80:13-68
 	android:name
-		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:74:13-58
+		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:79:13-58
 activity#com.example.aakash.smartrefer.wastein
-ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:77:9-80:68
+ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:82:9-85:59
 	android:label
-		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:79:13-59
+		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:84:13-59
 	android:theme
-		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:80:13-56
+		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:85:13-56
 	android:name
-		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:78:13-36
+		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:83:13-36
+activity#com.example.aakash.smartrefer.wastemanagementMAIN
+ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:86:9-89:59
+	android:label
+		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:88:13-72
+	android:theme
+		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:89:13-56
+	android:name
+		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:87:13-48
+activity#com.example.aakash.smartrefer.ragForm
+ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:90:9-45
+	android:name
+		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:90:19-42
+activity#com.example.aakash.smartrefer.manure_home
+ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:91:9-58
+	android:name
+		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:91:19-46
 uses-sdk
 INJECTED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [SmartRefrigerator1:openCVLibrary310:unspecified] G:\SmartRefrigerator1\openCVLibrary310\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
@@ -290,12 +306,12 @@ MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\User\
 MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\User\.android\build-cache\0c6dd0f82d713d0b804c7888663ff6dcea083265\output\AndroidManifest.xml:21:5-43
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\User\.android\build-cache\4c5a3b98e00ba55ff5a86674588c8d4486440f4a\output\AndroidManifest.xml:5:5-7:41
 MERGED from [com.twilio:client-android:1.2.18] C:\Users\User\.android\build-cache\704daec34e44624e08eda17ef85819bbac142b5a\output\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:support-v4:25.1.1] C:\Users\User\.android\build-cache\9b95b84c874f4ac544ea1b2f1c2972782f7c3e36\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\User\.android\build-cache\c758a2efcd8c1608b5a449528d74d09f2ba9f4ef\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\User\.android\build-cache\41ef9ef6a6dbb88b856dd95c9feb7ffde8283fec\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\User\.android\build-cache\b01b6cc64ad172e6204e2f965c01b23f83e7916c\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\User\.android\build-cache\7e349574a5f92d04016783d6b17df5d11b689efd\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.1.1] C:\Users\User\.android\build-cache\26d67a4ae5e714f08869543849cdce39689e2269\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\User\.android\build-cache\00ce46da6470a39603608f54c21fedc6288c13e2\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\User\.android\build-cache\64776c0deb3749adb3c16ea779d8c86e75ea6db4\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\User\.android\build-cache\75f09e25e1197bfc3090e26acbd45d2129e79659\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\User\.android\build-cache\ab8f282a616abe1590092addd81c571ce44e92d7\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\User\.android\build-cache\cd61439bc76d0c6938c71e81210f81f5ea83be9c\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\User\.android\build-cache\05c2ef6f91e4a8976d1e4c88288fb6ea3f418b38\output\AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
 		ADDED from [com.android.support:design:25.1.1] C:\Users\User\.android\build-cache\afc15fe0bf677c5c77b67f5cd16aa2680c2e8c2b\output\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
@@ -557,3 +573,14 @@ ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\User\
 		ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\User\.android\build-cache\7a3259eedfe3acdf7319fc434d008becba4532f2\output\AndroidManifest.xml:20:66-119
 	android:name
 		ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\User\.android\build-cache\7a3259eedfe3acdf7319fc434d008becba4532f2\output\AndroidManifest.xml:20:20-65
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:25.3.0] C:\Users\User\.android\build-cache\00ce46da6470a39603608f54c21fedc6288c13e2\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\User\.android\build-cache\64776c0deb3749adb3c16ea779d8c86e75ea6db4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\User\.android\build-cache\75f09e25e1197bfc3090e26acbd45d2129e79659\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\User\.android\build-cache\ab8f282a616abe1590092addd81c571ce44e92d7\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\User\.android\build-cache\cd61439bc76d0c6938c71e81210f81f5ea83be9c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\User\.android\build-cache\05c2ef6f91e4a8976d1e4c88288fb6ea3f418b38\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v4:25.3.0] C:\Users\User\.android\build-cache\00ce46da6470a39603608f54c21fedc6288c13e2\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v4:25.3.0] C:\Users\User\.android\build-cache\00ce46da6470a39603608f54c21fedc6288c13e2\output\AndroidManifest.xml:26:9-47

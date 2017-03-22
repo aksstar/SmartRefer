@@ -99,7 +99,7 @@ public class recycler extends RecyclerView.Adapter<recycler.ViewHolder> {
                             intent=new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.youtube.com/results?search_query=healthy+recipes+for+kids"));
                             break;
                         case 8:
-                            intent = new Intent(v.getContext(), MapsActivity1.class);
+                            intent = new Intent(v.getContext(), wastein.class);
                            // url = "http://www.biogas-india.com/contact.php";
                             //intent = new Intent(Intent.ACTION_VIEW);
                             //intent.setData(Uri.parse(url));

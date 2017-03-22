@@ -41,6 +41,10 @@
         android:protectionLevel="signature" />
 
     <uses-permission android:name="com.example.aakash.smartrefer.permission.C2D_MESSAGE" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.0" />
     <!--
          The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
          Google Maps Android API v2, but you must specify either coarse or fine
@@ -61,6 +65,11 @@
         </activity>
         <!-- <activity android:name=".MainActivity" /> -->
         <activity android:name="com.example.aakash.smartrefer.DoThings" />
+        <!--
+            <activity
+            android:name=".wasteSwipe"
+            android:theme="@style/AppTheme.NoActionBar" />
+        -->
         <activity android:name="com.example.aakash.smartrefer.LoginGlobal" />
         <activity android:name="com.example.aakash.smartrefer.RegisterGlobal" />
         <activity android:name="com.example.aakash.smartrefer.Scanactivty" />
@@ -95,6 +104,12 @@
             android:name="com.example.aakash.smartrefer.wastein"
             android:label="@string/title_activity_wastein"
             android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.aakash.smartrefer.wastemanagementMAIN"
+            android:label="@string/title_activity_wastemanagement_main"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name="com.example.aakash.smartrefer.ragForm" />
+        <activity android:name="com.example.aakash.smartrefer.manure_home" />
         <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
         <activity
             android:name="com.google.android.gms.ads.AdActivity"

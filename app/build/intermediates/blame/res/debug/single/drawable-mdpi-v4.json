@@ -1,11 +1,11 @@
 [
     {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png",
-        "source": "C:\\Users\\User\\.android\\build-cache\\6548c9883c3ccc775f8e16e148157f8f52de7a33\\output\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png"
-    },
-    {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\cast_ic_notification_1.png",
         "source": "C:\\Users\\User\\.android\\build-cache\\3405aa07a77d9c5ec87c9afc03087a9077901b79\\output\\res\\drawable-mdpi-v4\\cast_ic_notification_1.png"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\User\\.android\\build-cache\\6548c9883c3ccc775f8e16e148157f8f52de7a33\\output\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
     {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\quantum_ic_cast_connected_white_24.png",
@@ -20,20 +20,20 @@
         "source": "C:\\Users\\User\\.android\\build-cache\\6548c9883c3ccc775f8e16e148157f8f52de7a33\\output\\res\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_close_light.png",
-        "source": "C:\\Users\\User\\.android\\build-cache\\5ae6a9f41363dd4bfa886000c3990322601b8e03\\output\\res\\drawable-mdpi-v4\\ic_close_light.png"
-    },
-    {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\quantum_ic_pause_white_24.png",
         "source": "C:\\Users\\User\\.android\\build-cache\\7ac626b83d59015b70a5d09236911b0ce54dc61f\\output\\res\\drawable-mdpi-v4\\quantum_ic_pause_white_24.png"
     },
     {
-        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png",
-        "source": "C:\\Users\\User\\.android\\build-cache\\8de633525b8d8d0e18aae7bf83b8ed4b2916d940\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png"
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_close_light.png",
+        "source": "C:\\Users\\User\\.android\\build-cache\\5ae6a9f41363dd4bfa886000c3990322601b8e03\\output\\res\\drawable-mdpi-v4\\ic_close_light.png"
     },
     {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png",
         "source": "C:\\Users\\User\\.android\\build-cache\\6548c9883c3ccc775f8e16e148157f8f52de7a33\\output\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "C:\\Users\\User\\.android\\build-cache\\8de633525b8d8d0e18aae7bf83b8ed4b2916d940\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png"
     },
     {
         "merged": "G:\\SmartRefrigerator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_plusone_small_off_client.png",

@@ -44,6 +44,11 @@
         </activity>
         <!-- <activity android:name=".MainActivity" /> -->
         <activity android:name=".DoThings" />
+        <!--
+            <activity
+            android:name=".wasteSwipe"
+            android:theme="@style/AppTheme.NoActionBar" />
+        -->
         <activity android:name=".LoginGlobal" />
         <activity android:name=".RegisterGlobal" />
         <activity android:name=".Scanactivty" />
@@ -77,7 +82,13 @@
         <activity
             android:name=".wastein"
             android:label="@string/title_activity_wastein"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".wastemanagementMAIN"
+            android:label="@string/title_activity_wastemanagement_main"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".ragForm" />
+        <activity android:name=".manure_home"></activity>
     </application>
 
 </manifest>
