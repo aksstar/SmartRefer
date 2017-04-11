@@ -44,7 +44,7 @@
 
     <meta-data
         android:name="android.support.VERSION"
-        android:value="25.3.0" />
+        android:value="25.3.1" />
     <!--
          The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
          Google Maps Android API v2, but you must specify either coarse or fine
@@ -103,10 +103,6 @@
         <activity
             android:name="com.example.aakash.smartrefer.wastein"
             android:label="@string/title_activity_wastein"
-            android:theme="@style/AppTheme.NoActionBar" />
-        <activity
-            android:name="com.example.aakash.smartrefer.wastemanagementMAIN"
-            android:label="@string/title_activity_wastemanagement_main"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name="com.example.aakash.smartrefer.ragForm" />
         <activity android:name="com.example.aakash.smartrefer.manure_home" />

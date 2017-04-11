@@ -5,61 +5,46 @@
     build-mode="COLD"
     density="560dpi"
     format="10"
-    plugin-version="2.3.0"
-    timestamp="1490140910745"
+    plugin-version="2.3.1"
+    timestamp="1491549773993"
     token="-8267612936424353302"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="4764" />
+        duration="1292" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="410" />
+        duration="23" />
     <task
         name="verifier"
-        duration="31" />
+        duration="4" />
 
-    <artifact
-        location="G:\SmartRefrigerator1\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-        type="SPLIT" />
-    <artifact
-        location="G:\SmartRefrigerator1\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
-        type="SPLIT" />
-    <artifact
-        location="G:\SmartRefrigerator1\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-        type="SPLIT" />
     <artifact
         location="G:\SmartRefrigerator1\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
         type="SPLIT" />
-    <artifact
-        location="G:\SmartRefrigerator1\app\build\outputs\apk\app-debug.apk"
-        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1490139859928"
+        timestamp="1491547999006"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="G:\SmartRefrigerator1\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="G:\SmartRefrigerator1\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
-            type="SPLIT" />
-        <artifact
-            location="G:\SmartRefrigerator1\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            location="G:\SmartRefrigerator1\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
         <artifact
             location="G:\SmartRefrigerator1\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="G:\SmartRefrigerator1\app\build\outputs\apk\app-debug.apk"
-            type="SPLIT_MAIN" />
+            location="G:\SmartRefrigerator1\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            type="SPLIT" />
         <artifact
-            location="G:\SmartRefrigerator1\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            location="G:\SmartRefrigerator1\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="G:\SmartRefrigerator1\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
         <artifact
             location="G:\SmartRefrigerator1\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
@@ -79,26 +64,17 @@
         <artifact
             location="G:\SmartRefrigerator1\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1490140910745"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="G:\SmartRefrigerator1\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="G:\SmartRefrigerator1\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
-            type="SPLIT" />
-        <artifact
-            location="G:\SmartRefrigerator1\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-            type="SPLIT" />
-        <artifact
-            location="G:\SmartRefrigerator1\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
-            type="SPLIT" />
         <artifact
             location="G:\SmartRefrigerator1\app\build\outputs\apk\app-debug.apk"
             type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1491549773993"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="G:\SmartRefrigerator1\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            type="SPLIT" />
     </build>
 
 </instant-run>

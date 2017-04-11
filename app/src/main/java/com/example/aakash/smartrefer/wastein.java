@@ -41,9 +41,7 @@ public class wastein extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(v.getContext(), ragForm.class);
-                intent.putExtra("url","http://projectrefrigerator.pe.hu/windex.php");
                 v.getContext().startActivity(intent);
-
             }
         });
         button4.setOnClickListener(new View.OnClickListener() {

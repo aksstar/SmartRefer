@@ -8,11 +8,15 @@ import android.content.Intent;
 import android.net.Uri;
 import android.support.design.widget.Snackbar;
 import android.support.v7.widget.RecyclerView;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
+
+import com.daimajia.androidanimations.library.Techniques;
+import com.daimajia.androidanimations.library.YoYo;
 
 public class recycler extends RecyclerView.Adapter<recycler.ViewHolder> {
 
@@ -61,12 +65,12 @@ public class recycler extends RecyclerView.Adapter<recycler.ViewHolder> {
             itemDetail =
                     (TextView)itemView.findViewById(R.id.item_detail);
 
-
             itemView.setOnClickListener(new View.OnClickListener() {
                 @Override public void onClick(View v) {
                     Intent intent = new Intent(v.getContext(), Scanactivty.class);;
                     String url;
                     int position = getAdapterPosition();
+
                     switch (position)
                     {
                         case 0:

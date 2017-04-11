@@ -83,10 +83,6 @@
             android:name=".wastein"
             android:label="@string/title_activity_wastein"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity
-            android:name=".wastemanagementMAIN"
-            android:label="@string/title_activity_wastemanagement_main"
-            android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name=".ragForm" />
         <activity android:name=".manure_home"></activity>
     </application>

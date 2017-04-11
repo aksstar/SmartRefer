@@ -15,7 +15,8 @@
             android:padding="20dp"
             android:text="Smart Food Manager"
             android:textColor="#1E311D"
-            android:textSize="30sp" />
+            android:textSize="30sp"
+            android:id="@+id/projname" />
 
         <EditText
             android:layout_width="match_parent"
